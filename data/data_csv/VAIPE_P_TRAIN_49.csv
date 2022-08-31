@@ -1,0 +1,38 @@
+xmin,ymin,xmax,ymax,Object,label
+37,102,217,130,Khoa Khám bệnh,
+36,146,213,184,Bốc khám Ngoại,
+554,151,813,193,Số phiếu 42244/2021,
+935,165,1025,190,4806357,
+387,195,757,242,TOA THUỐC BHYT,
+1022,252,1057,277,Nữ,
+927,255,977,275,Nam,
+762,322,835,350,69105,
+447,325,480,350,35,
+545,325,577,350,35,
+650,325,695,350,205,
+372,327,390,347,4,
+674,359,950,393,MMHg Thân nhiệt: 36.3,
+247,360,455,390,lần/phút Huyết áp:,
+37,364,159,389,Mạch: 85,
+500,367,615,387,120,
+37,392,642,425,Cận lâm sàng: Chụp Xquang xương cánh tay thẳng nghiêng,
+37,422,715,454,Chẩn đoán: S42.3 - Gãy thân xương cánh tay; (LO3) Viêm mô bào,diagnose
+64,590,540,632,"1) HAPENXIN CAPSULES 0,5g",drugname
+887,592,1057,625,SL: 20 Viên,quantity
+49,630,235,662,Ghi chú uống,
+767,632,905,660,Chiều 2 Viên,usage
+430,635,560,665,Sáng 2 Viên,usage
+64,670,495,710,2) PARTAMOL TAB. 500mg,drugname
+887,672,1057,705,SL: 20 Viên,quantity
+49,705,235,743,Ghi chú Uống:,
+767,709,904,737,Chiều 2 Viên,usage
+429,710,560,744,Sáng 2 Viên,usage
+45,755,290,785,Cộng khoản: 2 khoản,
+45,790,242,817,Lời dặn đơn thuốc:,
+45,832,247,860,Ngày hẹn tái khám:,
+722,885,925,912,Ngày 30/08/2021,date
+92,912,292,937,Bệnh nhân ký nhận,
+737,920,912,952,"Y, Bác sĩ điều trị",
+682,1035,947,1062,BSCKI. Lưu Minh Tân,
+44,1114,617,1149,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1177,1089,1202,05/01/2022 22:54:02,

@@ -1,0 +1,23 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+702,215,962,250,Cân nặng kg nam,
+1012,215,1057,240,Nữ,
+37,349,932,395,Chẩn đoán: N20 - Sỏi thận và niệu quản; (N30) Viêm bàng quang,diagnose
+37,398,242,440,Thuốc điều trị:,
+37,446,512,490,"1) Cefalexin (Firstlexin 500) 0,5g",drugname
+282,515,714,552,Uống: Sáng 2 Viên Tối 2 Viên,usage
+42,520,195,547,SL: 20 Viên,quantity
+34,575,680,617,2) Drotaverin clohydrat (Dromasm fort) 80mg,drugname
+282,642,715,680,Uống: Sáng 1 Viên TốI 1 Viên,usage
+42,647,197,675,SL: 20 Viên,quantity
+37,700,810,745,"3) Kim tiền thảo, râu ngô (Kim tiền thảo) 120mg+35mg",drugname
+282,772,717,812,Uống: Sáng 5 Viên Tối 5 Viên,usage
+42,775,212,805,SL: 100 Viên,quantity
+42,840,160,872,Lời dặn:,
+647,882,1027,920,Ngày 22 tháng 12 năm 2021,date
+677,929,1002,969,Bác sỹ/Y sỹ khám bệnh,
+712,975,969,1012,"(Ký, ghi rõ họ tên)",
+682,1122,995,1150,BSCKI. Lưu Minh Tân,
+62,1165,507,1200,Khám lại xin mang theo đơn này,
+62,1212,1007,1252,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

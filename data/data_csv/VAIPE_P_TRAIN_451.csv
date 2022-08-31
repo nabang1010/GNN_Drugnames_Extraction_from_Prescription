@@ -1,0 +1,45 @@
+xmin,ymin,xmax,ymax,Object,label
+58,28,113,58,1/1,
+372,91,535,123,Số phiếu 2597/2018,
+626,100,688,118,4660399,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+185,207,215,225,HC,
+300,207,322,225,35,
+366,207,387,224,35,
+436,207,468,224,080,
+509,207,560,225,01229,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,254,125,274,Cận lâm sàng:,
+28,274,438,294,"Chấn đoán: J31 - Viêm mũi, viêm mũi họng, viêm họng mạn",diagnose
+46,387,356,412,"1) AMOXICILLIN 500MG 0,5g",drugname
+595,387,708,409,SL: 20 Viên,quantity
+34,411,161,436,Ghi chú Uống:,
+625,414,700,433,Tối 2 Viên,usage
+289,416,376,436,Sáng 2 Viên,usage
+44,438,274,466,2) PANACTOL 500mg,drugname
+595,439,708,461,SL: 20 Viên,quantity
+34,463,160,488,Ghi chú Uống:,
+625,466,700,484,Tối 2 Viên,usage
+289,468,376,488,Sáng 2 Viên,usage
+45,489,357,518,3) VACO LORATADINE 10mg,drugname
+595,491,708,513,SL: 10 Viên,quantity
+34,515,161,540,Ghi chú Uống:,
+625,518,700,536,Tối 1 Viên,usage
+289,519,376,540,Sáng 1 Viên,usage
+46,542,346,570,4) VITAMIN C STADA 1G 1g,drugname
+595,545,695,565,SL: 5 Viên,quantity
+34,566,161,592,Ghi chú Uống:,
+289,571,376,591,Sáng 1 Viên,usage
+33,600,197,620,Cộng khoản: 4 khoản,
+33,623,163,642,Lời dặn đơn thuốc:,
+33,650,167,670,Ngày hẹn tái khám:,
+484,687,621,705,Ngày 24/08/2018,date
+65,703,198,722,Bệnh nhân ký nhận,
+494,712,611,732,"Y, Bác sĩ điều trị",
+461,787,631,805,BSĐK. Vũ Mạnh Lưu,
+33,840,414,863,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+586,882,728,899,29/05/2021 09:16:31,

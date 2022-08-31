@@ -1,0 +1,22 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+702,215,1057,250,Cân nặng kg nam x,
+37,350,807,390,Chẩn đoán: J44 - Các bệnh phổi tắc nghẽn mãn tính khác,diagnose
+37,398,242,440,Thuốc điều trị:,
+37,446,512,490,"1) Cefalexin (Firstlexin 500) 0,5g",drugname
+282,515,752,555,Uống: Sáng 2 Viên CHIều 2 Viên,usage
+42,520,195,547,SL: 30 Viên,quantity
+34,575,740,617,2) Methyl prednisolon (Methylprednisolon 4) 4mg,drugname
+281,641,550,684,Uống: Sáng 4 Viên,usage
+42,647,197,675,SL: 20 Viên,quantity
+37,702,530,745,3) Carbocistein (Anpemux) 250mg,drugname
+282,772,752,812,Uống: Sáng 2 Viên CHIều 2 Viên,usage
+42,775,195,805,SL: 30 Viên,quantity
+42,840,157,870,Lời dặn:,
+647,882,1027,920,Ngày 24 tháng 12 năm 2021,date
+679,929,1002,969,Bác sỹ/Y sỹ khám bệnh,
+711,971,970,1014,"(Ký, ghi rõ họ tên)",
+669,1108,1008,1163,BSCKI. Vũ Hồng Thanh,
+62,1165,507,1200,Khám lại xin mang theo đơn này,
+62,1212,1007,1252,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

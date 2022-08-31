@@ -1,0 +1,33 @@
+xmin,ymin,xmax,ymax,Object,label
+58,28,113,58,1/1,
+26,89,137,112,PK Số 5.1 [TĐ],
+372,92,547,121,Số phiếu 67626/2019,
+626,101,688,118,1373137,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+187,207,214,227,TQ,
+300,207,321,224,9T,
+366,207,386,224,97,
+436,207,466,225,317,
+509,207,561,225,32006,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,307,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,252,633,276,"Cận lâm sàng: Định lượng Glucose (Máu), Tổng phân tích nước tiểu (Bằng máy tự động);",
+28,272,735,295,Chấn đoán: E78 - Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác; (E11) TD Bệnh đái,diagnose
+26,294,578,314,tháo đường không phụ thuộc insulin; (N34) Viêm niệu đạo và hội chứng niệu đạo,diagnose
+46,384,332,413,1) METRONIDAZOL 250mg,drugname
+595,387,708,409,SL: 20 Viên,quantity
+34,412,232,438,Ghi chú Uống sau khi ăn:,
+513,414,605,433,Chiều 2 Viên,usage
+289,416,376,436,Sáng 2 Viên,usage
+33,444,197,463,Cộng khoản: 1 khoản,
+33,466,163,486,Lời dặn đơn thuốc:,
+33,492,167,513,Ngày hẹn tái khám:,
+484,529,621,548,Ngày 28/10/2019,date
+65,546,198,566,Bệnh nhân ký nhận,
+494,553,612,575,"Y, Bác sĩ điều trị",
+459,630,633,652,BS. Hoàng Thị Hường,
+33,685,414,706,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+588,725,730,742,10/05/2021 10:35:38,

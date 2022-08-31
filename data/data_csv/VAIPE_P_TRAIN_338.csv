@@ -1,0 +1,50 @@
+xmin,ymin,xmax,ymax,Object,label
+37,102,217,130,Khoa Khám bệnh,
+36,146,283,183,Bốc khám Tiểu đường 1,
+553,151,765,194,Số phiếu 68/2022,
+935,165,1027,190,4887884,
+387,195,755,242,TOA THUỐC BHYT,
+927,255,977,275,Nam,
+1022,255,1057,277,Nữ,
+762,322,835,350,39267,
+370,325,387,350,2,
+447,325,480,350,35,
+545,325,577,350,35,
+650,325,695,350,208,
+674,361,887,393,mmHg Thân nhiệt:,
+247,362,455,390,Lần/phút Huyết áp:,
+37,365,105,390,Mạch:,
+497,367,615,387,130,
+37,395,357,425,Cận lâm sàng: Điện tim thường,
+37,422,1054,452,Chấn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (110) Bệnh lý tăng huyết áp; (149),diagnose
+37,452,914,482,Loạn nhịp tim khác; (G46?) Hội chứng mạch máu não trong bệnh mạch não (160-1677),diagnose
+64,590,517,632,1) MEGLUCON 1000 1000mg,drugname
+887,591,1055,625,SL: 34 Viên,quantity
+49,627,235,665,Ghi chú Uống:,
+932,632,1045,660,Tối 1 Viên,usage
+64,669,432,710,2) GOLDDICRON 30mg,drugname
+887,672,1057,705,SL:34 Viên,quantity
+49,705,363,747,Ghi chú Uống trước khi ăn:,
+430,712,560,742,Sáng 1 Viên,usage
+65,750,597,787,"3) HANGITOR PLUS 40mg+12,5mg",drugname
+887,750,1047,782,SL:34 viên,quantity
+49,786,235,820,Ghi chú uống:,
+430,792,552,820,Sáng 1 viên,usage
+64,825,477,867,"4) SAVIPROLOL 2,5 2,5mg",drugname
+887,827,1057,860,SL:34 Viên,quantity
+49,862,235,900,Ghi chú Uống:,
+430,870,560,900,Sáng 1 Viên,usage
+64,900,750,945,5) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg,drugname
+887,904,1050,940,SL: 40 viên,quantity
+49,940,223,977,Ghi chú Uống,
+765,945,897,972,Chiều 2 viên,usage
+429,946,553,978,Sáng 2 viên,usage
+45,990,290,1020,Cộng khoản: 5 khoản,
+45,1022,489,1052,Lời dặn đơn thuốc: Hẹn KHám 8/2/2022,
+45,1065,247,1095,Ngày hẹn tái khám:,
+722,1117,927,1147,Ngày 04/01/2022,date
+92,1145,292,1172,Bệnh nhân ký nhận,
+737,1157,912,1185,"Y, Bác sĩ điều trị",
+712,1270,917,1300,BS. Bùi Mạnh Hà,
+44,1349,617,1384,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1412,1089,1437,04/01/2022 22:35:45,

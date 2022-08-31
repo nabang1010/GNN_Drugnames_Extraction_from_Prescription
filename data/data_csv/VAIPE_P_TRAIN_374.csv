@@ -1,0 +1,36 @@
+xmin,ymin,xmax,ymax,Object,label
+57,46,115,77,1/1,
+372,111,521,138,Số phiếu 191/2021,
+625,117,687,137,4759981,
+259,139,508,173,TOA THUỐC BHYT,
+621,179,710,195,Nam x nữ,
+434,224,468,244,206,
+512,226,561,244,71686,
+368,228,388,244,35,
+170,252,306,270,lần/phút Huyết áp:,
+28,255,75,270,Mạch:,
+452,255,596,272,MMHg Thân nhiệt:,
+28,273,126,293,Cận lâm sàng:,
+26,290,727,312,Chấn đoán: [20 - Viêm phế quản cấp; (130.3) Viêm mũi dị ứng khác; (G46?) Hội chứng mạch máu não,diagnose
+28,312,246,333,trong bệnh mạch não (I60-167t),diagnose
+46,401,364,430,"1) HAPENXIN CAPSULES 0,5g",drugname
+594,403,707,426,SL: 20 Viên,quantity
+34,428,160,455,Ghi chú Uống:,
+44,454,370,483,2) BROMHEXIN ACTAVIS 8mg,drugname
+594,457,707,479,SL: 20 Viên,quantity
+35,481,153,506,Ghi chú Uống,
+44,506,259,534,3) SERGUROP 10mg,drugname
+594,508,696,530,SL: 5 Viên,quantity
+35,534,153,557,Ghi chú Uống,
+46,555,541,588,4) HOẠT HUYẾT DƯỠNG NÃO QN 150mg+20mg,drugname
+594,561,707,583,SL: 20 Viên,quantity
+37,588,153,610,Ghi chú Uống,
+35,619,197,639,Cộng khoản: 4 khoản,
+35,643,164,661,Lời dặn đơn thuốc:,
+33,667,168,687,Ngày hẹn tái khám:,
+483,703,621,723,Ngày 18/01/2021,date
+64,721,199,741,Bệnh nhân ký nhận,
+497,732,612,749,"Y, Bác sĩ điều trị",
+445,802,648,828,NV. Đặng Thị Thu Huyền,
+33,858,417,880,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+585,898,732,918,04/01/2022 23:51:00,

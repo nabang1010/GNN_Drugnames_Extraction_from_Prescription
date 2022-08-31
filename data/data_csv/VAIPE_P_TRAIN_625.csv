@@ -1,0 +1,40 @@
+xmin,ymin,xmax,ymax,Object,label
+58,28,113,58,1/1,
+26,89,130,113,PK SỐ 3 [NHI],
+372,91,534,123,Số phiếu 4214/2021,
+626,100,688,118,4825120,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+300,207,322,225,35,
+366,207,387,224,35,
+436,207,468,225,208,
+509,207,560,225,24485,
+250,210,262,224,3,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,235,73,250,Mạch:,
+28,254,733,275,"Cận lâm sảng: Định lượng Cholesterol toàn phần (máu), Định lượng Glucose (Máu), Định lượng HDL-Châu Trong",
+28,275,735,294,"(High density lipoprotein Cholesterol) (Máu), Định lượng Triglycerid (máu) (Máu), Tổng phân tích nước",
+26,291,199,316,tiểu (Bằng máy tự động);,
+28,311,732,335,Chấn đoán: E78 - Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác; (E11)TD Bệnh đái,diagnose
+26,332,431,352,tháo đường không phụ thuộc insuline; (J?2) Viêm họng cấp,diagnose
+46,424,349,453,"1) CEFADROXIL 500MG 0,5g",drugname
+595,426,708,449,SL: 28 Viên,quantity
+34,449,161,475,Ghi chú Uống:,
+513,453,606,471,Chiều 2 Viên,usage
+289,454,376,474,Sáng 2 Viên,usage
+44,478,274,505,2) PANACTOL 500mg,drugname
+595,479,708,501,SL: 10 Viên,quantity
+34,501,161,527,Ghi chú Uống:,
+513,504,605,523,Chiều 1 Viên,usage
+289,506,376,526,Sáng 1 Viên,usage
+33,535,197,555,Cộng khoản: 2 khoản,
+33,558,163,576,Lời dặn đơn thuốc:,
+33,585,167,605,Ngày hẹn tái khám:,
+484,620,620,640,Ngày 19/01/2021,date
+65,638,198,657,Bệnh nhân ký nhận,
+494,647,611,665,"Y, Bác sĩ điều trị",
+464,717,630,747,BS. Nguyễn Thế Anh,
+33,775,414,798,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+588,817,730,834,16/05/2021 16:43:33,

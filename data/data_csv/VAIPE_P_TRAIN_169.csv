@@ -1,0 +1,45 @@
+xmin,ymin,xmax,ymax,Object,label
+37,102,217,129,Khoa Khám bệnh,
+37,146,188,180,Bốc khám nội,
+554,151,813,193,Số phiếu 60029/2021,
+935,165,1027,190,4998348,
+387,195,755,242,TOA THUỐC BHYT,
+925,252,977,275,Nam,
+1025,257,1057,277,Nữ,
+650,322,697,350,210,
+447,325,480,350,35,
+545,325,577,350,35,
+760,325,832,350,96741,
+372,327,390,347,4,
+247,360,455,390,lần/phút Huyết áp:,
+674,360,950,393,mmHg Thân nhiệt: 36.7,
+132,362,160,387,75,
+37,365,105,390,Mạch:,
+500,367,615,387,120,
+37,395,635,425,"Cận lâm sàng: Doppler động mạch cảnh, Doppler xuyên sọ",
+37,422,1102,454,Chấn đoán: G46? - Hội chứng mạch máu não trong bệnh mạch não (160-1677); (170) Xơ vữa động mạch;,diagnose
+37,449,712,482,"(G47) Rối loạn giấc ngủ; (E53.9) Thiếu vitamin B, không đặc hiệu",diagnose
+64,587,750,633,1) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg,drugname
+887,595,1047,622,SL:40 viên,quantity
+49,630,235,662,Ghi chú uống,
+767,632,897,660,Chiều 2 viên,usage
+430,635,552,665,Sáng 2 viên,usage
+64,670,495,710,2) PARTAMOL TAB. 500mg,drugname
+887,672,1057,705,SL: 20 Viên,quantity
+49,705,235,743,Ghi chú Uống:,
+767,709,904,737,Chiều 2 Viên,usage
+429,711,560,744,Sáng 2 Viên,usage
+65,749,584,787,"3) SAVI 3B 100mg+100mg+0,15mg",drugname
+887,750,1057,782,SL: 20 Viên,quantity
+49,786,235,820,Ghi chú uống:,
+767,790,905,815,Chiều 1 Viên,usage
+430,792,560,820,Sáng 1 Viên,usage
+45,835,290,862,Cộng khoản: 3 khoản,
+44,866,242,898,Lời dặn đơn thuốc:,
+45,910,247,937,Ngày hẹn tái khám:,
+722,962,925,990,Ngày 24/12/2021,date
+92,990,292,1017,Bệnh nhân ký nhận,
+737,1002,912,1030,"Y, Bác sĩ điều trị",
+667,1110,965,1145,BSCKI. Nguyễn Văn Thự,
+44,1194,617,1227,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1255,1089,1280,05/01/2022 19:06:47,

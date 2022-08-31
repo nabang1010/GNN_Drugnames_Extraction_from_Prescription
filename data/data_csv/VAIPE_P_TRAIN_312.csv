@@ -1,0 +1,44 @@
+xmin,ymin,xmax,ymax,Object,label
+58,28,113,58,1/1,
+26,89,127,113,PK Số 2 [Nội],
+372,91,547,123,Số phiếu 58600/2018,
+626,100,687,118,4709591,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+185,207,214,225,HT,
+299,207,322,225,35,
+366,207,387,224,35,
+436,207,468,225,206,
+509,207,561,225,87166,
+249,208,262,224,3,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,254,125,274,Cận lâm sàng:,
+28,272,710,294,Chấn đoán: [10 - Tăng huyết áp vô căn (nguyên phát); (E78) Rối loạn chuyển hoá lipoprotein và tình,diagnose
+26,290,202,316,trạng tăng lipid máu khác,diagnose
+46,387,347,412,1) TROYSAR AM 5mg +50mg,drugname
+595,387,708,409,SL: 60 Viên,quantity
+34,411,161,436,Ghi chú Uống:,
+514,414,605,433,Chiều 1 Viên,usage
+289,416,376,436,Sáng 1 Viên,usage
+45,438,351,466,2) STACETAM 800MG 800mg,drugname
+595,439,708,461,SL: 20 Viên,quantity
+34,463,161,488,Ghi chú Uống:,
+514,466,606,484,Chiều 1 Viên,usage
+289,468,376,488,Sáng 1 Viên,usage
+45,489,299,518,3) LENINARTO 10 10mg,drugname
+595,491,708,513,SL: 60 Viên,quantity
+34,515,161,540,Ghi chú Uống:,
+513,518,605,536,Chiều 1 Viên,usage
+289,519,376,540,Sáng 1 Viên,usage
+33,548,197,568,Cộng khoản: 3 khoản,
+33,571,163,590,Lời dặn đơn thuốc:,
+33,596,309,617,"Ngày hẹn tái khám: Thứ tư, 24/10/2018",
+484,633,621,652,Ngày 24/09/2018,date
+65,652,198,670,Bệnh nhân ký nhận,
+494,658,611,678,"Y, Bác sĩ điều trị",
+467,729,625,757,BS. Đào Tiến Trung,
+33,788,416,811,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+588,828,729,848,18/05/2021 15:28:41,

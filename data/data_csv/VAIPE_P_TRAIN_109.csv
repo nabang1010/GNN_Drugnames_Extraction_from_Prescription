@@ -1,0 +1,22 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+702,215,1057,250,Cân nặng kg nam x,
+37,349,1025,394,Chẩn đoán: M13.0 - Viêm đa khớp không đặc hiệu; (E11)td ệnh đái tháo,diagnose
+37,388,1065,433,đường không phụ thuộc insuline; (E75)td Rối loạn chuyển hóa sphingolipid,diagnose
+37,427,1072,469,và rối loạn tích luỹ lipid; (120) Cơn đau thắt ngực; (H81) Rối loạn chức năng,diagnose
+35,465,157,500,tiền đình,diagnose
+37,505,242,547,Thuốc điều trị:,
+37,555,487,597,1) Loxoprofen (Mezafen) 60mg,drugname
+282,625,897,662,Uống: Sáng 1 Viên CHIều 1 Viên Tối 1 Viên,usage
+42,627,197,657,SL: 30 Viên,quantity
+34,678,892,727,"2) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",drugname
+282,752,737,792,Uống: Sáng 3 viên CHIều 3 viên,usage
+42,755,190,785,SL: 60 viên,quantity
+42,820,157,850,Lời dặn:,
+647,861,1030,904,Ngày 04 tháng 01 năm 2022,date
+679,909,1002,949,Bác sỹ/Y sỹ khám bệnh,
+712,957,969,992,"(Ký, ghi rõ họ tên)",
+679,1088,998,1143,BS. Nguyễn Thế Chiến,
+62,1147,507,1182,Khám lại xin mang theo đơn này,
+62,1192,1007,1232,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

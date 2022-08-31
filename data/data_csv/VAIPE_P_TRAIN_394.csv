@@ -1,0 +1,37 @@
+xmin,ymin,xmax,ymax,Object,label
+26,107,144,132,PK Số 1 [Ngoại],
+372,111,543,138,Số phiếu 56959/2021,
+625,119,690,137,4659628,
+259,139,508,173,TOA THUỐC BHYT,
+621,179,654,195,Nam,
+687,179,710,195,Nữ,
+510,224,559,244,60191,
+437,226,468,244,206,
+188,228,215,244,CB,
+250,228,264,244,2,
+301,228,323,244,35,
+368,228,388,244,35,
+170,252,306,270,lần/phút Huyết áp:,
+28,255,73,270,Mạch:,
+452,255,596,272,MMHg Thân nhiệt:,
+26,270,472,295,"Cận lâm sàng: Chụp Xquang khớp gối thẳng, nghiêng hoặc chếch",
+28,291,306,314,Chẩn đoán: S80.0 - đụng giập tại đầu gối,diagnose
+46,402,333,430,1) PARTAMOL TAB. 500mg,drugname
+594,403,707,426,SL: 20 Viên,quantity
+34,428,160,455,Ghi chú Uống:,
+287,431,377,456,Sáng 2 Viên,usage
+512,432,607,450,Chiều 2 Viên,usage
+44,454,275,483,"2) KATRYPSIN 4,2mg",drugname
+594,457,707,479,SL: 20 Viên,quantity
+512,483,607,503,Chiều 2 Viên,usage
+288,485,377,505,Sáng 2 Viên,usage
+37,486,153,506,Ghi chú Uống,
+32,511,197,535,Cộng khoản: 2 khoản,
+33,536,164,556,Lời dặn đơn thuốc:,
+33,563,168,583,Ngày hẹn tái khám:,
+483,599,621,619,Ngày 20/12/2021,date
+64,616,199,636,Bệnh nhân ký nhận,
+497,627,612,645,"Y, Bác sĩ điều trị",
+461,698,634,723,BS. Lương Tiến Dũng,
+33,754,414,776,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+585,794,732,814,27/12/2021 23:00:13,

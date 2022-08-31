@@ -1,0 +1,37 @@
+xmin,ymin,xmax,ymax,Object,label
+58,28,113,58,1/1,
+372,91,535,123,Số phiếu 1602/2018,
+625,101,688,118,4775703,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+300,207,322,225,35,
+366,207,387,225,35,
+436,207,466,225,207,
+509,207,560,225,39915,
+451,231,595,255,mmHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,254,125,274,Cận lâm sàng:,
+28,272,344,294,Chẩn đoán: J02 - Viêm họng cấp; (L29) Ngứa,diagnose
+46,387,280,412,"1) NOVOXIM-500 0,5g",drugname
+595,387,708,409,SL: 20 Viên,quantity
+34,411,161,436,Ghi chú Uống:,
+45,438,334,466,2) PARTAMOL TAB. 500mg,drugname
+595,439,708,461,SL: 10 Viên,quantity
+34,463,161,488,Ghi chú Uống:,
+45,490,356,518,3) VACO LORATADINE 10mg,drugname
+595,491,708,513,SL: 10 Viên,quantity
+34,515,161,540,Ghi chú Uống:,
+46,542,269,570,4) C1000 FLOODE 1g,drugname
+595,543,697,565,SL: 5 Viên,quantity
+34,566,161,592,Ghi chú Uống:,
+33,600,197,620,Cộng khoản: 4 khoản,
+33,623,185,642,Lời dặn đơn thuốc: 0,
+33,650,168,670,Ngày hẹn tái khám:,
+484,684,622,705,Ngày 09/05/2018,date
+65,703,198,722,Bệnh nhân ký nhận,
+494,712,611,732,"Y, Bác sĩ điều trị",
+449,784,645,810,YS. Nguyễn Hồng Phong,
+33,840,414,863,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+588,882,730,899,10/05/2021 10:37:28,

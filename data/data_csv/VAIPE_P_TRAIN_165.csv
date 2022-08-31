@@ -1,0 +1,41 @@
+xmin,ymin,xmax,ymax,Object,label
+57,46,115,77,1/1,
+153,75,250,95,BÌNH NGHĨA,
+372,111,535,138,Số phiếu 4483/2020,
+625,117,690,137,4732758,
+259,139,508,173,TOA THUỐC BHYT,
+621,179,654,195,Nam,
+687,179,710,195,Nữ,
+434,224,468,244,208,
+510,224,561,244,42368,
+250,228,323,244,4,
+368,228,388,244,35,
+170,252,306,270,lần/phút Huyết áp:,
+28,255,75,270,Mạch:,
+452,255,596,272,MMHg Thân nhiệt:,
+28,273,126,293,Cận lâm sàng:,
+26,289,439,314,"Chẩn đoán: J31 - Viêm mũi, viêm mũi họng, viêm họng mạn",diagnose
+46,401,366,430,1) AMOXICILIN 500MG 500mg,drugname
+594,403,703,426,SL: 20 viên,quantity
+625,432,698,452,Tối 2 viên,usage
+37,434,159,452,Ghi chú uống,
+288,434,372,452,Sáng 2 viên,usage
+44,454,333,483,2) CLORPHENIRAMIN 4mg,drugname
+594,457,707,479,SL: 10 Viên,quantity
+35,481,162,506,Ghi chú Uống:,
+625,483,701,503,Tối 1 Viên,usage
+288,485,377,505,Sáng 1 Viên,usage
+43,504,275,537,3) PANACTOL 500mg,drugname
+594,508,707,530,SL: 10 Viên,quantity
+288,536,377,559,Sáng 1 Viên,usage
+625,536,701,554,Tối 1 Viên,usage
+37,537,153,557,Ghi chú Uống,
+33,565,197,585,Cộng khoản: 3 khoản,
+33,590,164,607,Lời dặn đơn thuốc:,
+33,616,168,636,Ngày hẹn tái khám:,
+483,650,623,670,Ngày 29/10/2020,date
+63,667,199,691,Bệnh nhân ký nhận,
+494,676,612,696,"Y, Bác sĩ điều trị",
+474,752,616,772,BS. Trần Thị Tính,
+33,805,415,829,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+585,847,732,865,29/12/2021 23:31:10,

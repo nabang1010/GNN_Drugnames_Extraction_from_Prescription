@@ -1,0 +1,19 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+702,215,1057,250,Cân nặng kg nam x,
+37,347,1097,390,Chấn đoán: L08 - Nhiễm khuẩn khu trú khác của da và mô dưới da bàn tay trái,diagnose
+37,398,242,440,Thuốc điều trị:,
+37,445,565,490,1) Amoxicilin (Fabamox 500) 500mg,drugname
+282,515,900,555,Uống: Sáng 2 Viên CHIều 2 Viên Tối 2 Viên,usage
+42,520,195,547,SL: 24 Viên,quantity
+35,577,585,615,2) Paracetamol (Partamol Tab.) 500mg,drugname
+282,642,750,683,Uống: Sáng 1 Viên Chiều 1 Viên,usage
+42,647,195,675,SL: 08 Viên,quantity
+42,710,160,745,Lời dặn:,
+647,755,1027,792,Ngày 28 tháng 12 năm 2021,date
+680,802,1002,840,Bác sỹ/Y sỹ khám bệnh,
+712,847,970,885,"(Ký, ghi rõ họ tên)",
+682,992,995,1020,BSCKI. Lưu Minh Tân,
+62,1037,507,1072,Khám lại xin mang theo đơn này,
+62,1082,1007,1125,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

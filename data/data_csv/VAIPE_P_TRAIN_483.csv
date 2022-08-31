@@ -1,0 +1,49 @@
+xmin,ymin,xmax,ymax,Object,label
+26,75,157,95,TYT XÃ BẮC LY,
+372,109,535,138,Số phiếu 4136/2020,
+625,117,690,137,4942576,
+259,139,508,173,TOA THUỐC BHYT,
+621,179,654,195,Nam,
+687,179,710,195,Nữ,
+510,224,559,244,39377,
+434,226,468,244,207,
+368,228,388,244,35,
+170,252,306,270,lần/phút Huyết áp:,
+28,255,75,270,Mạch:,
+452,255,596,272,MMHg Thân nhiệt:,
+28,273,126,293,Cận lâm sàng:,
+26,290,472,312,Chẩn đoán: K29 - Viêm dạ dày và tá tràng; (L20) Viêm da cơ địa,diagnose
+46,401,366,430,1) AMOXICILIN 500MG 500mg,drugname
+594,403,707,426,SL: 20 Viên,quantity
+287,431,377,454,Sáng 2 Viên,usage
+35,432,161,452,Ghi chú uống:,
+625,432,701,452,Tối 2 Viên,usage
+44,454,377,483,2) METRONIDAZOL 250 250mg,drugname
+594,457,707,479,SL: 20 Viên,quantity
+625,483,701,503,Tối 2 Viên,usage
+288,485,377,505,Sáng 2 Viên,usage
+37,486,153,506,Ghi chú Uống,
+594,506,708,532,SL: 10 Viên,quantity
+44,506,259,534,3) PRAZOPRO 40mg,drugname
+625,534,701,554,Tối 1 Viên,usage
+288,536,377,559,Sáng 1 Viên,usage
+37,537,153,557,Ghi chú Uống,
+46,559,259,588,4) SERGUROP 10mg,drugname
+594,561,707,583,SL: 10 Viên,quantity
+625,587,701,607,Tối 1 Viên,usage
+37,588,162,610,Ghi chú Uống:,
+290,592,377,610,Sáng 1 Viên,usage
+44,612,497,639,5) CHORLATCYN 125mg+50mg+50mg+25mg,drugname
+594,612,707,634,SL: 20 Viên,quantity
+35,636,162,661,Ghi chú uống:,
+625,641,701,658,Tối 2 Viên,usage
+290,641,377,662,Sáng 2 Viên,usage
+33,670,197,690,Cộng khoản: 5 khoản,
+33,694,164,712,Lời dặn đơn thuốc:,
+32,717,168,741,Ngày hẹn tái khám:,
+483,756,623,776,Ngày 11/12/2020,date
+64,772,199,794,Bệnh nhân ký nhận,
+494,781,612,803,"Y, Bác sĩ điều trị",
+438,851,654,882,Ys ĐK. Nguyễn Công Hoan,
+33,909,415,934,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+585,951,732,969,27/12/2021 22:23:16,

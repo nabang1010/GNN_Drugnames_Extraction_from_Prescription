@@ -1,0 +1,43 @@
+xmin,ymin,xmax,ymax,Object,label
+57,46,115,77,1/1,
+26,107,144,132,PK Số 1 [Ngoại],
+372,109,532,138,Số phiếu 4056/2021,
+625,117,690,137,4666845,
+259,139,508,173,TOA THUỐC BHYT,
+621,179,654,195,Nam,
+687,179,710,195,Nữ,
+434,224,468,244,207,
+510,224,561,244,19447,
+368,228,388,244,35,
+170,252,306,270,lần/phút Huyết áp:,
+28,255,73,270,Mạch:,
+452,255,596,272,MMHg Thân nhiệt:,
+28,273,126,293,Cận lâm sàng:,
+26,290,709,312,Chần đoán: H66.0 - Viêm tai giữa nung mủ cấp viêm tai giữa cấp mủ: (J30.3) Viêm mũi dị ứng khác,diagnose
+46,401,346,430,1) FABAMOX 500MG 500mg,drugname
+594,403,703,426,SL: 28 viên,quantity
+37,434,153,452,Ghi chú uống,
+627,434,698,450,Tối 2 viên,usage
+290,437,372,454,Sáng 2 viên,usage
+44,454,317,483,2) VIPREDNI 16MG 16mg,drugname
+594,457,696,479,SL: 5 Viên,quantity
+35,485,232,505,Ghi chú Uống sau khi ăn:,
+288,485,377,505,Sáng 1 Viên,usage
+43,504,275,537,3) PANACTOL 500mg,drugname
+594,508,707,530,SL: 10 Viên,quantity
+623,534,701,554,Tối 1 Viên,usage
+35,534,162,557,Ghi chú Uống:,
+288,536,377,559,Sáng 1 Viên,usage
+46,559,259,588,4) SERGUROP 10mg,drugname
+594,561,696,583,SL: 5 Viên,quantity
+37,588,153,610,Ghi chú Uống,
+627,590,701,607,Tối 1 Viên,usage
+35,619,197,639,Cộng khoản: 4 khoản,
+35,643,164,661,Lời dặn đơn thuốc:,
+33,667,168,687,Ngày hẹn tái khám:,
+483,703,621,723,Ngày 18/01/2021,date
+64,721,199,741,Bệnh nhân ký nhận,
+497,732,612,749,"Y, Bác sĩ điều trị",
+461,803,634,827,BS. Lương Tiến Dũng,
+33,858,414,880,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+585,898,732,918,20/12/2021 21:48:58,

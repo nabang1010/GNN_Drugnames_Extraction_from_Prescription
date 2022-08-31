@@ -1,0 +1,35 @@
+xmin,ymin,xmax,ymax,Object,label
+58,28,113,58,1/1,
+26,89,137,112,PK Số 5.1 [TĐ],
+372,91,545,123,Số phiếu 12164/2021,
+626,101,688,118,5099009,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+366,207,387,224,35,
+436,207,468,225,206,
+511,207,560,225,70983,
+300,208,322,225,35,
+450,231,595,255,mmHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,252,705,274,"Cận lâm sàng: Tổng phân tích tế bào máu ngoại vi (bằng máy đếm tổng trở), Đo hoạt độ ALT (GPT)",
+28,274,718,294,"(Máu], Đo hoạt độ AST (GOT) (Máu), Định lượng Cholesterol toàn phần (máu), Định lượng Creatining",
+28,294,682,314,"(máu), Định lượng Glucose (Máu), Định lượng HbAIc (Máu), Định lượng HDL-C (High density",
+26,312,730,332,"lipoprotein Cholesterol) (Máu), Định lượng Triglycerid (máu) (Máu), Định lượng Urê máu (Máu), Tổng",
+26,331,479,351,phân tích nước tiểu (Bằng máy tự động); Chụp Xquang ngực thắng,
+28,351,466,371,Chẩn đoán: E11 - Bệnh đái tháo đường không phụ thuộc insuline,diagnose
+46,461,349,489,1) MEGLUCON 1000 1000mg,drugname
+595,464,708,486,SL: 68 Viên,quantity
+34,486,232,514,Ghi chú Uống sau khi ăn:,
+625,489,700,508,Tối 1 Viên,usage
+288,490,376,512,Sáng 1 Viên,usage
+33,519,197,540,Cộng khoản: 1 khoản,
+33,543,163,561,Lời dặn đơn thuốc:,
+33,568,314,590,"Ngày hẹn tái khám: Thứ hai, 05/04/2021",
+484,606,620,625,Ngày 02/03/2021,date
+65,623,198,642,Bệnh nhân ký nhận,
+494,631,611,650,"Y, Bác sĩ điều trị",
+474,704,618,728,BS. Trần Mạnh Hà,
+33,760,414,783,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+586,802,728,819,30/05/2021 22:07:41,

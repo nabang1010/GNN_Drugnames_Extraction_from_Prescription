@@ -1,0 +1,41 @@
+xmin,ymin,xmax,ymax,Object,label
+28,58,229,76,TRẠM Y TẾ XÃ ĐỒNG DU,
+372,91,535,123,Số phiếu 3066/2020,
+626,100,688,118,4679652,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+187,207,214,224,BT,
+300,207,322,225,35,
+366,207,387,224,35,
+436,207,468,225,205,
+511,207,560,225,71062,
+249,208,262,224,2,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,254,125,274,Cận lâm sàng:,
+28,272,678,294,"Chấn đoán: IIO - Tăng huyết áp vô căn (nguyên phát); (E53.9) Thiếu vitamin B, không đặc hiệu",diagnose
+46,386,272,413,1) AMCARDIA-5 5mg,drugname
+595,387,703,409,SL: 30 viên,quantity
+34,411,161,436,Ghi chú Uống:,
+289,416,372,436,Sáng 1 viên,usage
+45,439,443,466,2) COSYNDO B 175mg+175mg+125mcg,drugname
+595,439,708,461,SL: 10 Viên,quantity
+34,463,160,488,Ghi chú Uống:,
+514,466,606,484,Chiều 1 Viên,usage
+289,468,376,488,Sáng 1 Viên,usage
+44,489,274,518,3) PANACTOL 500mg,drugname
+595,491,708,513,SL: 10 Viên,quantity
+34,515,161,540,Ghi chú Uống:,
+513,518,605,536,Chiều 1 Viên,usage
+289,519,376,540,Sáng 1 Viên,usage
+33,548,197,568,Cộng khoản: 3 khoản,
+33,571,163,590,Lời dặn đơn thuốc:,
+33,598,167,616,Ngày hẹn tái khám:,
+484,633,621,652,Ngày 27/11/2020,date
+65,652,198,670,Bệnh nhân ký nhận,
+494,658,611,678,"Y, Bác sĩ điều trị",
+451,731,642,755,BS. TRẦN THỊ THOAN,
+33,788,416,811,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+586,829,730,845,03/05/2021 11:09:07,

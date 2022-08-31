@@ -1,0 +1,19 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+702,215,1057,250,Cân nặng kg nam x,
+37,350,1097,392,"Chẩn đoán: T10 - Bệnh lý tăng huyết áp, (125) Bệnh tim thiếu máu cục bộ mạn",diagnose
+37,398,242,440,Thuốc điều trị:,
+37,446,950,490,"1) Telmisartan % hydroclorothiazid (Hangitor plus) 40mg+12,5mg",drugname
+282,515,542,552,Uống: Sáng 1 viên,usage
+42,520,190,547,SL: 30 viên,quantity
+35,577,547,615,2) Atorvastatin (Atoris 20mg) 20mg,drugname
+282,642,565,680,Uống: TỐI 1/2 Viên,usage
+42,647,197,675,SL: 15 Viên,quantity
+42,703,557,745,Lời dặn: Hẹn Tái KHám 28/1/2022,
+647,755,1027,792,Ngày 28 tháng 12 năm 2021,date
+680,802,1002,840,Bác sỹ/Y sỹ khám bệnh,
+712,847,969,884,"(Ký, ghi rõ họ tên)",
+677,992,1002,1027,BS. Đào Thị Bích Thủy,
+62,1037,507,1072,Khám lại xin mang theo đơn này,
+62,1082,1007,1125,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

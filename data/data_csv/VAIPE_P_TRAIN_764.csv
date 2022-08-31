@@ -1,0 +1,26 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+702,215,1057,250,Cân nặng kg nam x,
+37,349,1095,395,Chẩn đoán: K21 - Bệnh trào ngược dạ dày - thực quản; (K29) Viêm dạ dày và,diagnose
+35,392,522,427,tá tràng; (K75) bệnh viêm gan khác,diagnose
+37,428,243,470,Thuốc điều trị:,
+37,476,565,520,1) Amoxicilin (Fabamox 500) 500mg,drugname
+282,544,750,585,Uống: Sáng 2 Viên CHiều 2 Viên,usage
+42,550,197,577,SL: 28 Viên,quantity
+35,607,657,647,2) Metronidazol (Metronidazol 250) 250 mg,drugname
+282,675,750,712,Uống: Sáng 2 Viên Chiều 2 Viên,usage
+42,677,195,707,SL: 28 Viên,quantity
+37,734,502,777,3) Omeprazol (Kagasdine) 20mg,drugname
+282,802,905,840,Uống trước khi ăn: sáng 1 viên chiều 1 viên,usage
+42,807,197,835,SL: 14 Viên,quantity
+37,864,679,902,4) Drotaverin clohydrat (Dromasm fort) 80mg,drugname
+282,929,749,969,Uống: Sáng 1 Viên CHiều 1 Viên,usage
+42,935,197,962,SL: 10 Viên,quantity
+41,996,160,1034,Lời dặn:,
+647,1042,1030,1080,Ngày 04 tháng 01 năm 2022,date
+680,1090,1002,1127,Bác sỹ/Y sỹ khám bệnh,
+712,1135,969,1172,"(Ký, ghi rõ họ tên)",
+677,1275,1002,1317,BS. Nguyễn Trung Đức,
+62,1325,507,1360,Khám lại xin mang theo đơn này,
+62,1368,1007,1414,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

@@ -1,0 +1,44 @@
+xmin,ymin,xmax,ymax,Object,label
+37,102,217,129,Khoa Khám bệnh,
+36,146,285,183,Bốc khám Tiểu đường 2,
+554,151,813,193,Số phiếu 35336/2021,
+935,165,1027,190,5072563,
+387,195,757,242,TOA THUỐC BHYT,
+925,252,977,275,Nam,
+1022,252,1057,277,Nữ,
+762,322,835,350,82497,
+447,325,480,350,35,
+545,325,577,350,35,
+650,325,695,350,204,
+372,327,390,347,4,
+247,360,455,390,lần/phút Huyết áp:,
+674,360,950,393,mmHg Thân nhiệt: 36.7,
+37,365,105,390,Mạch:,
+132,365,160,387,78,
+500,365,615,387,110,
+37,392,450,425,Cận lâm sàng: Chụp Xquang ngực thẳng,
+37,422,1054,452,Chấn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (110) Bệnh lý tăng huyết áp; (140),diagnose
+37,452,712,482,Viêm phế quản không xác định được là cấp hay mãn tính TD LAO,diagnose
+64,590,517,632,1) MEGLUCON 1000 1000mg,drugname
+887,591,1055,625,SL: 60 Viên,quantity
+49,627,343,669,Ghi chú Uống sau khi ăn:,
+932,632,1045,660,Tối 1 Viên,usage
+430,635,560,665,Sáng 1 Viên,usage
+64,669,380,710,2) ENALAPRIL 5mg,drugname
+887,672,1057,705,SL: 30 Viên,quantity
+49,705,235,743,Ghi chú Uống:,
+430,712,560,742,Sáng 1 Viên,usage
+65,750,540,787,"3) HAPENXIN CAPSULES 0,5g",drugname
+887,750,1057,782,SL: 20 Viên,quantity
+49,783,236,823,Ghi chú Uống:,
+767,787,905,815,Chiều 2 Viên,usage
+430,792,560,820,Sáng 2 Viên,usage
+45,835,290,862,Cộng khoản: 3 khoản,
+45,867,492,897,Lời dặn đơn thuốc: KHáM Lại 20/8/2021,
+45,910,247,937,Ngày hẹn tái khám:,
+722,962,925,990,Ngày 19/07/2021,date
+92,990,292,1017,Bệnh nhân ký nhận,
+737,1000,912,1030,"Y, Bác sĩ điều trị",
+686,1105,943,1149,BS. Nguyễn Đức Thái,
+44,1194,617,1227,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1257,1089,1280,04/01/2022 23:52:34,

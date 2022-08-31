@@ -1,0 +1,48 @@
+xmin,ymin,xmax,ymax,Object,label
+37,102,217,129,Khoa Khám bệnh,
+36,146,283,183,Bốc khám Tiểu đường 1,
+554,151,813,193,Số phiếu 45376/2021,
+935,165,1027,190,4690479,
+387,195,757,242,TOA THUỐC BHYT,
+925,252,977,275,Nam,
+1022,252,1057,277,Nữ,
+762,322,835,350,08018,
+447,325,480,350,35,
+545,325,577,350,35,
+650,325,695,350,206,
+372,327,387,350,3,
+247,360,455,390,lần/phút Huyết áp:,
+674,361,887,393,mmHg Thân nhiệt:,
+37,365,105,390,Mạch:,
+500,367,612,387,130,
+37,395,922,425,"Cận lâm sàng: Định lượng Glucose [Máu]; Doppler động mạch cảnh, Doppler xuyên sọ",
+37,420,1072,452,Chấn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (110) Bệnh lý tăng huyết áp; (170.2),diagnose
+37,452,1022,482,Xơ vữa động mạch ngoại biên; (G46?) Hội chứng mạch máu não trong bệnh mạch não (160-1671),diagnose
+887,592,1057,625,SL:30 Viên,quantity
+64,592,495,630,1) PYME DIAPRO MR 30mg,drugname
+49,629,362,668,Ghi chú Uống trước khi ăn:,
+430,635,560,665,Sáng 1 Viên,usage
+64,669,380,710,2) ENALAPRIL 5mg,drugname
+887,672,1057,705,SL: 60 Viên,quantity
+49,705,223,742,Ghi chú Uống,
+767,710,905,737,Chiều 1 Viên,usage
+430,712,560,742,Sáng 1 Viên,usage
+64,747,382,787,3) PAMLONOR 5mg,drugname
+887,750,1057,782,SL: 60 Viên,quantity
+49,786,235,820,Ghi chú uống:,
+767,790,905,815,Chiều 1 Viên,usage
+430,792,560,820,Sáng 1 Viên,usage
+64,820,750,868,4) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg,drugname
+890,827,1050,860,SL: 40 viên,quantity
+49,862,235,900,Ghi chú Uống:,
+767,867,897,895,Chiều 2 viên,usage
+430,870,552,900,Sáng 2 viên,usage
+45,912,290,940,Cộng khoản: 4 khoản,
+45,945,515,975,Lời dặn đơn thuốc: Hẹn KHám 21/10/2021,
+45,987,247,1015,Ngày hẹn tái khám:,
+722,1040,925,1070,Ngày 21/09/2021,date
+92,1067,292,1095,Bệnh nhân ký nhận,
+737,1077,913,1110,"Y, Bác sĩ điều trị",
+712,1192,917,1220,BS. Bùi Mạnh Hà,
+44,1272,617,1306,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1334,1089,1359,05/01/2022 23:20:19,

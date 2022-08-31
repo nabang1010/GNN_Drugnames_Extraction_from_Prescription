@@ -1,0 +1,22 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+702,215,962,250,Cân nặng kg nam,
+1012,215,1057,240,Nữ,
+37,345,105,372,Nam,
+37,380,1095,420,Chấn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (G46?) Hội,diagnose
+37,420,765,457,chứng mạch máu não trong bệnh mạch não (160-167't),diagnose
+37,455,242,497,Thuốc điều trị:,
+37,505,610,547,1) Metformin (Meglucon 1000) 1000 mg,drugname
+282,574,690,615,Uống sau khi ăn: TRƯA 1 Viên,usage
+42,577,197,607,SL: 29 Viên,quantity
+35,630,892,675,"2) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",drugname
+282,702,737,742,Uống: Sáng 2 viên CHIều 2 viên,usage
+42,705,190,735,SL: 40 viên,quantity
+42,765,480,802,Lời dặn: KHÁM Lại 28/1/2022,
+647,812,1027,854,Ngày 28 tháng 12 năm 2021,date
+677,859,1002,899,Bác sỹ/Y sỹ khám bệnh,
+712,907,970,942,"(Ký, ghi rõ họ tên)",
+686,1038,993,1093,BS. Nguyễn Đức Thái,
+62,1095,510,1130,Khám lại xin mang theo đơn này,
+62,1142,1007,1182,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

@@ -1,0 +1,43 @@
+xmin,ymin,xmax,ymax,Object,label
+37,102,217,129,Khoa Khám bệnh,
+37,146,188,180,Bốc khám nội,
+554,151,780,193,Số phiếu 362/2022,
+935,165,1027,190,4729324,
+387,195,755,242,TOA THUỐC BHYT,
+925,252,977,275,Nam,
+1022,252,1057,277,Nữ,
+762,322,835,350,33545,
+370,325,390,350,3,
+447,325,480,350,35,
+545,325,577,350,35,
+650,325,695,350,206,
+674,360,950,393,mmHg Thân nhiệt: 36.7,
+132,362,160,387,75,
+250,362,455,390,lần/phút Huyết áp:,
+37,365,105,390,Mạch:,
+500,367,615,387,120,
+36,393,185,425,Cận lâm sàng:,
+37,422,1059,452,Chấn đoán: T10 - Bệnh lý tăng huyết áp; (149) Loạn nhịp tim khác; (G46?) Hội chứng mạch máu não,diagnose
+37,451,362,482,trong bệnh mạch não (160-1677),diagnose
+64,587,750,633,1) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg,drugname
+887,592,1047,622,SL: 40 viên,quantity
+49,627,235,665,Ghi chú Uống:,
+765,632,897,660,Chiều 2 viên,usage
+430,635,552,665,Sáng 2 viên,usage
+64,667,597,710,"2) HANGITOR PLUS 40mg+12,5mg",drugname
+887,672,1050,705,SL: 40 viên,quantity
+49,705,235,743,Ghi chú Uống:,
+430,715,552,742,Sáng 1 viên,usage
+64,747,477,787,"3) SAVIPROLOL 2,5 2,5mg",drugname
+887,750,1057,782,SL: 40 Viên,quantity
+49,786,235,820,Ghi chú uống:,
+430,792,560,820,Sáng 1 Viên,usage
+45,835,290,862,Cộng khoản: 3 khoản,
+44,865,467,897,Lời dặn đơn thuốc: tái khám 12/02/2022,
+45,910,247,937,Ngày hẹn tái khám:,
+722,962,927,990,Ngày 04/01/2022,date
+92,990,292,1017,Bệnh nhân ký nhận,
+737,1002,912,1030,"Y, Bác sĩ điều trị",
+680,1115,950,1145,BS. Đào Thị Bích Thủy,
+44,1194,617,1227,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1257,1089,1280,04/01/2022 22:14:58,

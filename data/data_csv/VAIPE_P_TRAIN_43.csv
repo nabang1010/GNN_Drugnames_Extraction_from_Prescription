@@ -1,0 +1,28 @@
+xmin,ymin,xmax,ymax,Object,label
+57,46,115,77,1/1,
+26,107,133,132,PK SỐ 3 [NHI],
+372,110,546,138,Số phiếu 39648/2019,
+627,122,690,137,4667257,
+259,139,508,173,TOA THUỐC BHYT,
+621,179,710,195,Nam x nữ,
+434,224,468,244,206,
+510,224,561,244,98845,
+188,226,323,244,BT 2 L35,
+170,252,306,270,lần/phút Huyết áp:,
+28,255,73,270,Mạch:,
+452,255,596,272,MMHg Thân nhiệt:,
+28,273,126,293,Cận lâm sàng:,
+26,289,594,313,Chấn đoán: E78 - Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác,diagnose
+46,401,297,430,1) FIBROFIN-145 145mg,drugname
+594,403,707,426,SL: 30 Viên,quantity
+34,428,162,455,Ghi chú Uống:,
+623,432,701,450,Tối 1 Viên,usage
+33,461,197,481,Cộng khoản: 1 khoản,
+30,485,164,506,Lời dặn đơn thuốc:,
+33,512,168,532,Ngày hẹn tái khám:,
+483,545,621,568,Ngày 26/06/2019,date
+64,565,199,585,Bệnh nhân ký nhận,
+494,570,612,594,"Y, Bác sĩ điều trị",
+483,647,610,670,BS. khong dung,
+33,703,414,723,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+585,743,732,761,20/12/2021 00:02:33,

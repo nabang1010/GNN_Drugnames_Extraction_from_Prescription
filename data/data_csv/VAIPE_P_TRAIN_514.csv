@@ -1,0 +1,28 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+1012,212,1057,240,Nữ,
+702,215,962,250,Cân nặng kg nam,
+37,350,1022,392,Chẩn đoán: M47 - thoái hóa cột sống; (LO3) Viêm mô bào cẳng tay trái;,diagnose
+37,392,1050,430,(G46?) Hội chứng mạch máu não trong bệnh mạch não (160-167t); (E53.9),diagnose
+37,427,482,470,"Thiếu vitamin B, không đặc hiệu",diagnose
+37,466,243,510,Thuốc điều trị:,
+37,517,487,560,1) Loxoprofen (Mezafen) 60mg,drugname
+282,585,714,622,Uống: Sáng 1 Viên TốI 1 Viên,usage
+42,590,197,617,SL: 10 Viên,quantity
+34,643,875,687,"2) Vitamin b1 + b6 + b12 (Savi 3B) 100mg+100mg+0,15mg",drugname
+282,712,717,752,Uống: Sáng 1 Viên TốI 1 Viên,usage
+42,717,197,745,SL: 10 Viên,quantity
+37,770,892,815,"3) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",drugname
+282,839,702,883,Uống: Sáng 3 viên Tối 3 viên,usage
+42,844,189,874,SL: 30 viên,quantity
+37,902,512,942,"4) Cefalexin (Firstlexin 500) 0,5g",drugname
+282,970,752,1010,Uống: Sáng 2 Viên CHIều 2 Viên,usage
+42,975,195,1002,SL: 20 Viên,quantity
+42,1037,157,1070,Lời dặn:,
+647,1082,1027,1120,Ngày 24 tháng 12 năm 2021,date
+680,1130,1002,1165,Bác sỹ/Y sỹ khám bệnh,
+712,1175,970,1212,"(Ký, ghi rõ họ tên)",
+682,1320,997,1350,BSCKI. Lưu Minh Tân,
+62,1365,507,1397,Khám lại xin mang theo đơn này,
+62,1409,1007,1452,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

@@ -1,0 +1,42 @@
+xmin,ymin,xmax,ymax,Object,label
+37,97,360,127,TRẠM Y TẾ XÃ TIÊU ĐỘNG,
+554,151,795,193,Số phiếu 2189/2021,
+935,165,1027,190,4696305,
+387,195,757,242,TOA THUỐC BHYT,
+925,252,977,275,Nam,
+1022,255,1057,277,Nữ,
+762,322,835,350,31704,
+275,325,317,350,CK,
+370,325,390,350,2,
+447,325,480,350,35,
+545,325,577,350,35,
+650,325,695,350,206,
+674,360,887,393,mmHg Thân nhiệt:,
+250,362,455,390,lần/phút Huyết áp:,
+37,365,105,390,Mạch:,
+37,394,185,422,Cận lâm sàng:,
+37,420,825,452,Chẩn đoán: K74 - Gan xơ hóa và xơ gan; (H81) Rối loạn chức năng tiền đình,diagnose
+64,592,585,633,"1) KAHAGAN 0,1g+0,075g+0,075g",drugname
+887,592,1057,625,SL: 20 Viên,quantity
+49,630,235,662,Ghi chú uống,
+767,632,905,660,Chiều 2 Viên,usage
+430,635,560,665,Sáng 2 Viên,usage
+64,670,495,710,2) PARTAMOL TAB. 500mg,drugname
+887,672,1057,705,SL: 10 Viên,quantity
+49,705,223,742,Ghi chú Uống,
+767,710,905,737,Chiều 1 Viên,usage
+430,712,560,742,Sáng 1 Viên,usage
+64,742,750,788,3) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg,drugname
+887,749,1049,782,SL: 20 viên,quantity
+49,786,235,820,Ghi chú uống:,
+765,787,897,815,Chiều 2 viên,usage
+430,792,552,820,Sáng 2 viên,usage
+45,835,290,862,Cộng khoản: 3 khoản,
+44,866,242,898,Lời dặn đơn thuốc:,
+45,910,247,937,Ngày hẹn tái khám:,
+722,962,925,990,Ngày 22/11/2021,date
+92,990,292,1017,Bệnh nhân ký nhận,
+737,1000,912,1030,"Y, Bác sĩ điều trị",
+697,1110,935,1143,YS. Trịnh Tất Thành,
+44,1194,617,1227,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1255,1089,1280,04/01/2022 23:19:05,

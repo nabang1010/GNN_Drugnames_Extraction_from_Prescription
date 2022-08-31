@@ -1,0 +1,47 @@
+xmin,ymin,xmax,ymax,Object,label
+37,102,217,129,Khoa Khám bệnh,
+37,146,188,180,Bốc khám nội,
+554,151,813,193,Số phiếu 45535/2021,
+935,165,1027,190,4771969,
+387,195,757,242,TOA THUỐC BHYT,
+925,252,977,277,Nam,
+1022,255,1057,277,Nữ,
+762,322,835,350,34978,
+370,325,387,350,2,
+447,325,480,350,35,
+545,325,577,350,35,
+650,325,695,350,206,
+247,360,455,390,lần/phút Huyết áp:,
+674,360,950,393,mmHg Thân nhiệt: 36.7,
+37,365,105,390,Mạch:,
+132,365,160,387,78,
+500,367,612,387,120,
+37,392,1037,425,"Cận lâm sàng: Tổng phân tích tế bào máu ngoại vi (bằng máy đếm laser), Tổng phân tích nước tiểu",
+37,422,1095,455,"(Bằng máy tự động), Định lượng Acid Uric (Máu), Định lượng Cholesterol toàn phần (máu), Định lượng",
+37,455,992,482,"Glucose [Máu], Định lượng HDL-C (High density lipoprotein Cholesterol) [Máu], Định lượng",
+37,480,1057,512,"Triglycerid (máu) [Máu], Đo hoạt độ ALT (GPT) [Máu], Đo hoạt độ AST (GOT) [Máu], Định lượng",
+37,507,705,540,"Creatinin (máu), Điện giải đồ (Na, K, Cl) [Máu]; Điện tim thường",
+37,534,1077,570,Chần đoán: 110 - Bệnh lý tăng huyết áp; (E78) Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid,diagnose
+36,565,140,593,máu khác,diagnose
+64,705,377,745,1) ENALAPRIL 5mg,drugname
+887,707,1057,740,SL: 60 Viên,quantity
+49,742,235,780,Ghi chú Uống:,
+767,747,905,775,Chiều 1 Viên,usage
+430,750,560,780,Sáng 1 Viên,usage
+887,784,1050,820,SL: 15 viên,quantity
+64,784,437,825,2) SAVI PROLOL 5 5mg,drugname
+49,820,223,857,Ghi chú Uống,
+430,827,572,857,Sáng 1/2 viên,usage
+64,862,382,902,3) PAMLONOR 5mg,drugname
+887,865,1057,897,SL: 30 Viên,quantity
+49,897,223,935,Ghi chú Uống,
+430,907,560,935,Sáng 1 Viên,usage
+45,950,290,977,Cộng khoản: 3 khoản,
+45,982,562,1012,Lời dặn đơn thuốc: Hẹn KHám Lại 22/11/2021,
+45,1025,247,1052,Ngày hẹn tái khám:,
+722,1077,925,1105,Ngày 22/09/2021,date
+92,1105,292,1132,Bệnh nhân ký nhận,
+737,1112,912,1145,"Y, Bác sĩ điều trị",
+672,1225,957,1255,BSCKI. Trần Minh Tuấn,
+44,1306,617,1344,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1369,1089,1394,05/01/2022 21:57:19,

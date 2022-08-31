@@ -1,0 +1,42 @@
+xmin,ymin,xmax,ymax,Object,label
+26,28,247,50,Bệnh viện đa khoa tỉnh hà Nam,
+28,58,212,78,TRẠM Y TẾ XÃ HỢP LÝ,
+372,92,522,121,Số phiếu 363/2021,
+626,100,688,118,5077678,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+187,207,214,227,TQ,
+300,207,321,224,9T,
+366,207,386,224,97,
+436,207,468,225,942,
+509,207,560,225,26535,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,254,125,274,Cận lâm sàng:,
+28,271,558,294,"Chấn đoán: J20 - Viêm phế quản cấp: (J11) Cúm, virus không được định danh",diagnose
+46,387,364,412,"1) HAPENXIN CAPSULES 0,5g",drugname
+595,387,708,409,SL: 20 Viên,quantity
+34,411,161,436,Ghi chú Uống:,
+514,414,605,433,Chiều 2 Viên,usage
+289,416,376,436,Sáng 2 Viên,usage
+45,439,344,466,2) TYDOL PM 500mg + 25mg,drugname
+595,439,708,461,SL: 10 Viên,quantity
+34,463,159,488,Ghi chú Uống:,
+514,466,606,484,Chiều 1 Viên,usage
+289,468,376,488,Sáng 1 Viên,usage
+45,489,371,518,3) BROMHEXIN ACTAVIS 8mg,drugname
+595,491,708,513,SL: 10 Viên,quantity
+34,515,161,540,Ghi chú Uống:,
+513,518,605,536,Chiều 1 Viên,usage
+289,519,376,540,Sáng 1 Viên,usage
+33,548,197,568,Cộng khoản: 3 khoản,
+33,571,163,590,Lời dặn đơn thuốc:,
+33,598,167,616,Ngày hẹn tái khám:,
+484,633,620,652,Ngày 05/02/2021,date
+65,652,198,670,Bệnh nhân ký nhận,
+494,658,611,678,"Y, Bác sĩ điều trị",
+464,731,632,760,YS. Trần Ngọc Chiến,
+33,788,416,811,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+586,829,732,845,08/05/2021 12:46:10,

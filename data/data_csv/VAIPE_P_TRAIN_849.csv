@@ -1,0 +1,29 @@
+xmin,ymin,xmax,ymax,Object,label
+26,75,201,95,TYT XÃ NHÂN CHÍNH,
+372,111,535,138,Số phiếu 4888/2020,
+625,117,690,137,3095776,
+259,139,505,170,TOA THUỐC BHYT,
+621,179,654,195,Nam,
+687,179,710,195,Nữ,
+434,224,468,244,207,
+508,224,561,244,97715,
+170,252,306,270,lần/phút Huyết áp:,
+28,255,73,270,Mạch:,
+452,255,596,272,MMHg Thân nhiệt:,
+28,273,126,293,Cận lâm sàng:,
+26,289,377,312,Chẩn đoán: K04 - Bệnh tủy và mô quanh chân răng,diagnose
+46,401,361,430,"1) CEPHALEXIN PMP 500 0,5g",drugname
+594,403,707,426,SL: 20 Viên,quantity
+34,428,162,455,Ghi chú Uống:,
+44,457,343,483,2) TYDOL PM 500mg + 25mg,drugname
+594,457,707,479,SL: 15 Viên,quantity
+37,483,153,506,Ghi chú Uống,
+35,513,197,535,Cộng khoản: 2 khoản,
+33,536,164,556,Lời dặn đơn thuốc:,
+33,563,168,583,Ngày hẹn tái khám:,
+485,601,623,619,Ngày 09/12/2020,date
+64,616,199,636,Bệnh nhân ký nhận,
+497,627,612,645,"Y, Bác sĩ điều trị",
+472,696,623,718,YSĐK. Lê Thị Ánh,
+33,754,414,776,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+585,794,732,814,21/12/2021 23:38:42,

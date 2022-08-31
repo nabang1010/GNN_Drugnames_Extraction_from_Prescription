@@ -1,0 +1,25 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+1010,210,1059,244,Nữ,
+702,215,962,250,Cân nặng kg nam,
+37,349,1085,393,Chấn đoán: G46? - Hội chứng mạch máu não trong bệnh mạch não (160-167t),diagnose
+37,387,1077,430,"(195) Huyết áp thấp (hạ huyết áp); (E53.9) Thiếu vitamin B, không đặc hiệu",diagnose
+39,428,243,470,Thuốc điều trị:,
+37,473,892,520,"1) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",drugname
+282,544,735,585,Uống: Sáng 2 viên CHIều 2 viên,usage
+42,550,190,577,SL: 40 viên,quantity
+34,605,585,647,2) Paracetamol (Partamol Tab.) 500mg,drugname
+282,675,750,712,Uống: Sáng 2 Viên Chiều 2 Viên,usage
+42,677,195,707,SL: 20 Viên,quantity
+37,732,875,777,"3) Vitamin b1 + b6 + b12 (Savi 3B) 100mg+100mg+0,15mg",drugname
+282,802,752,842,Uống: Sáng 1 Viên CHIều 1 Viên,usage
+42,807,197,835,SL: 20 Viên,quantity
+42,860,1097,902,Lời dặn: Uống thuốc theo toa 4 tái khám sau 1 tuần 4 nghỉ dưỡng theo chế độ,
+42,905,140,932,BHXH,
+647,912,1027,954,Ngày 27 tháng 12 năm 2021,date
+679,959,1002,999,Bác sỹ/Y sỹ khám bệnh,
+712,1007,970,1042,"(Ký, ghi rõ họ tên)",
+661,1170,1018,1221,BSCKI. Nguyễn Văn Thự,
+62,1225,507,1260,Khám lại xin mang theo đơn này,
+62,1270,1007,1312,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

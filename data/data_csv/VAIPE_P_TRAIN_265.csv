@@ -1,0 +1,19 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+702,215,1057,250,Cân nặng kg nam x,
+37,349,1015,395,Chẩn đoán: N20 - Sỏi thận và niệu quản; (E11)TD Bệnh đái tháo đường,diagnose
+37,388,1060,432,không phụ thuộc insuline; (E78)TD Rối loạn chuyển hóa lipoprotein và tình,diagnose
+37,430,1045,470,trạng tăng lipid máu khác; (N18)TD Suy thận mãn tính; (G46?) Hội chứng,diagnose
+37,470,675,505,mạch máu não trong bệnh mạch não (160-167t),diagnose
+37,505,243,547,Thuốc điều trị:,
+37,552,892,597,"1) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",drugname
+282,625,870,662,Uống: Sáng 2 viên TRƯA 2 viên TốI 2 viên,usage
+42,627,190,657,SL: 60 viên,quantity
+42,692,157,722,Lời dặn:,
+647,735,1030,772,Ngày 04 tháng 01 năm 2022,date
+680,782,1002,820,Bác sỹ/Y sỹ khám bệnh,
+712,827,969,864,"(Ký, ghi rõ họ tên)",
+682,972,994,1002,BSCKI. Lưu Minh Tân,
+62,1017,507,1052,Khám lại xin mang theo đơn này,
+62,1060,1007,1107,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

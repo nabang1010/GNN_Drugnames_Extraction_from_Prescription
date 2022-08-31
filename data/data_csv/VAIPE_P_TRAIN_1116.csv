@@ -1,0 +1,42 @@
+xmin,ymin,xmax,ymax,Object,label
+28,58,229,76,TRẠM Y TẾ XÃ ĐỒNG DU,
+372,91,525,123,Số phiếu 354/2018,
+626,100,688,118,4679652,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+187,207,214,224,BT,
+300,207,322,225,35,
+366,207,387,224,35,
+436,207,468,225,205,
+511,207,560,225,71062,
+249,208,262,224,2,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,254,125,274,Cận lâm sàng:,
+28,272,680,294,Chấn đoán: H81 - Rối loạn chức năng tiền đình; (M80) Loàng xương có kèm gẫy xương bệnh lý,diagnose
+46,383,501,413,1) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg,drugname
+595,387,703,409,SL: 20 viên,quantity
+34,411,161,436,Ghi chú Uống:,
+625,414,697,433,Tối 2 viên,usage
+289,416,372,436,Sáng 2 viên,usage
+45,438,334,466,2) PARTAMOL TAB. 500mg,drugname
+595,439,703,461,SL: 10 viên,quantity
+34,463,161,488,Ghi chú Uống:,
+625,466,697,484,Tối 1 viên,usage
+289,468,372,488,Sáng 1 viên,usage
+44,489,321,516,3) VINA-AD 2000ui+ 400ui,drugname
+595,491,703,513,SL: 10 viên,quantity
+34,515,161,540,Ghi chú Uống:,
+625,518,697,536,Tối 1 viên,usage
+289,519,372,540,Sáng 1 viên,usage
+33,548,197,568,Cộng khoản: 3 khoản,
+33,571,163,590,Lời dặn đơn thuốc:,
+33,598,167,616,Ngày hẹn tái khám:,
+484,633,621,652,Ngày 06/02/2018,date
+65,652,198,670,Bệnh nhân ký nhận,
+494,658,611,678,"Y, Bác sĩ điều trị",
+451,731,642,755,BS. TRẦN THỊ THOAN,
+33,788,416,811,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+586,829,730,845,05/05/2021 18:23:33,

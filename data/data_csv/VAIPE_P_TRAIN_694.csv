@@ -1,0 +1,43 @@
+xmin,ymin,xmax,ymax,Object,label
+37,102,217,129,Khoa Khám bệnh,
+36,146,213,184,Bốc khám Ngoại,
+554,151,813,193,Số phiếu 49020/2021,
+935,165,1027,190,5127013,
+387,195,757,242,TOA THUỐC BHYT,
+925,252,977,275,Nam,
+1025,257,1057,277,Nữ,
+650,322,695,350,209,
+762,322,835,350,94124,
+447,325,480,350,35,
+545,325,577,350,35,
+372,327,390,347,4,
+247,360,455,390,lần/phút Huyết áp:,
+674,360,950,393,mmHg Thân nhiệt: 36.3,
+37,364,159,389,Mạch: 85,
+500,365,615,387,120,
+37,392,742,425,"Cận lâm sàng: Chụp Xquang xương cổ tay thẳng, nghiêng hoặc chếch",
+37,422,1087,452,"Chấn đoán: M113 - Các viêm khóp khác; (LO3) Viêm mô bào; (L23.9) Viêm da dị ứng tiếp xúc, nguyên",diagnose
+37,451,250,484,nhân không đặc hiệu,diagnose
+64,590,540,632,"1) HAPENXIN CAPSULES 0,5g",drugname
+887,592,1057,625,SL: 20 Viên,quantity
+49,627,235,665,Ghi chú Uống:,
+767,632,905,660,Chiều 2 Viên,usage
+430,635,560,665,Sáng 2 Viên,usage
+64,668,425,710,"2) MELOXICAM 7,5mg",drugname
+887,672,1050,705,SL: 10 viên,quantity
+49,705,235,743,Ghi chú Uống:,
+767,710,897,737,Chiều 1 viên,usage
+429,712,553,744,Sáng 1 viên,usage
+64,747,592,787,3) METHYLPREDNISOLON 4 4mg,drugname
+887,750,1057,782,SL: 20 Viên,quantity
+49,786,235,820,Ghi chú uống:,
+430,792,560,820,Sáng 4 Viên,usage
+44,832,290,864,Cộng khoản: 3 khoản,
+44,866,242,898,Lời dặn đơn thuốc:,
+45,910,247,937,Ngày hẹn tái khám:,
+722,962,925,990,Ngày 18/10/2021,date
+92,990,292,1017,Bệnh nhân ký nhận,
+737,1002,912,1030,"Y, Bác sĩ điều trị",
+682,1115,947,1140,BSCKI. Lưu Minh Tân,
+44,1194,617,1227,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1255,1090,1280,05/01/2022 23:32:48,

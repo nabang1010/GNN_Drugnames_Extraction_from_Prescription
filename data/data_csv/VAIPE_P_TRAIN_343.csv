@@ -1,0 +1,38 @@
+xmin,ymin,xmax,ymax,Object,label
+58,28,113,58,1/1,
+26,89,137,112,PK Số 5.1 [TĐ],
+372,91,547,123,Số phiếu 57689/2019,
+626,101,688,118,4875852,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+300,207,322,225,35,
+366,207,387,225,35,
+436,207,464,224,211,
+511,207,558,225,79021,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,307,252,lần/phút Huyết áp:,
+28,235,73,250,Mạch:,
+28,255,717,274,"Cận lâm sàng: Đo hoạt độ ALT (GPT) (Máu), Đo hoạt độ AST (GOT) (Máu), Định lượng Cholesterol",
+26,274,715,294,"toàn phần (máu), Định lượng Creatinin (máu), Định lượng Glucose (Máu), Định lượng HbAIc (Máu)",
+28,294,728,314,"Định lượng HDL-C (High density lipoprotein Cholesterol) (Máu), Định lượng Triglycerid (máu) (Máu)",
+28,312,536,332,"Định lượng Urê máu [Máu], Tổng phân tích nước tiểu (Bằng máy tự động);",
+28,332,459,352,Chẩn đoán: E11 - Bệnh đái tháo đường không phụ thuộc insulin,diagnose
+46,443,326,471,1) GLUCOFAST 850 850mg,drugname
+595,446,708,468,SL: 64 Viên,quantity
+34,469,232,495,Ghi chú Uống sau khi ăn:,
+513,471,605,489,Chiều 1 Viên,usage
+289,473,376,493,Sáng 1 Viên,usage
+45,494,471,523,2) DIAMICRON MR TAB 60MG 30'S 60mg,drugname
+595,498,708,519,SL: 32 Viên,quantity
+34,520,246,548,Ghi chú Uống trước khi ăn:,
+289,524,376,545,Sáng 1 Viên,usage
+33,553,197,573,Cộng khoản: 2 khoản,
+33,576,164,597,Lời dặn đơn thuốc:,
+33,601,311,624,"Ngày hẹn tái khám: Thứ ba, 15/10/2019",
+484,638,621,658,Ngày 13/09/2019,date
+65,657,198,677,Bệnh nhân ký nhận,
+494,664,612,685,"Y, Bác sĩ điều trị",
+459,740,633,762,BS. Hoàng Thị Hường,
+33,793,414,817,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+586,835,730,852,20/05/2021 08:13:10,

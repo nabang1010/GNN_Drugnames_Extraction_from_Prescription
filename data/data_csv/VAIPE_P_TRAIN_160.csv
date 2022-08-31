@@ -1,0 +1,42 @@
+xmin,ymin,xmax,ymax,Object,label
+37,102,217,129,Khoa Khám bệnh,
+37,146,188,180,Bốc khám nội,
+554,151,813,193,Số phiếu 50269/2021,
+935,165,1027,190,5124883,
+387,195,757,242,TOA THUỐC BHYT,
+927,255,977,277,Nam,
+1022,255,1057,277,Nữ,
+652,322,695,347,160,
+762,322,835,350,44824,
+447,325,480,350,35,
+545,325,577,350,30,
+372,327,390,347,4,
+247,360,455,390,lần/phút Huyết áp:,
+674,360,950,393,mmHg Thân nhiệt: 36.5,
+497,362,625,387,150,
+37,365,105,390,Mạch:,
+132,365,160,387,80,
+37,392,1037,424,"Cận lâm sàng: Tổng phân tích tế bào máu ngoại vi (bằng máy đếm laser), Tổng phân tích nước tiểu",
+37,422,1095,455,"(Bằng máy tự động), Định lượng Acid Uric (Máu), Định lượng Cholesterol toàn phần (máu), Định lượng",
+37,452,992,482,"Glucose [Máu], Định lượng HDL-C (High density lipoprotein Cholesterol) [Máu], Định lượng",
+37,479,915,513,"Triglycerid (máu) [Máu], Định lượng Creatinin (máu), Điện giải đồ (Na, K, Cl) [Máu];",
+37,507,1077,540,Chấn đoán: I10 - Bệnh lý tăng huyết áp; (E78) Rối loạn chuyến hóa lipoprotein và tình trạng tăng lipid,diagnose
+37,537,1055,567,máu khác; (E79.0) Tăng acid uric máu không có biểu hiện của viêm khớp và bệnh tạo sỏi; (N18) Suy,diagnose
+35,570,179,592,thận mãn tính,diagnose
+65,680,597,717,"1) HANGITOR PLUS 40mg+12,5mg",drugname
+887,680,1050,712,SL: 30 viên,quantity
+49,716,235,750,Ghi chú uống:,
+430,722,552,750,Sáng 1 viên,usage
+64,755,427,797,2) ATORIS 20MG 20mg,drugname
+887,757,1055,787,SL: 15 Viên,quantity
+49,792,235,830,Ghi chú Uống:,
+932,797,1065,825,Tối 1/2 Viên,usage
+45,842,290,870,Cộng khoản: 2 khoản,
+45,877,562,905,Lời dặn đơn thuốc: Hẹn KHám Lại 25/11/2021,
+45,917,247,945,Ngày hẹn tái khám:,
+722,970,925,1000,Ngày 25/10/2021,date
+92,997,292,1025,Bệnh nhân ký nhận,
+736,1006,913,1040,"Y, Bác sĩ điều trị",
+667,1117,965,1157,BSCKI. Nguyễn Văn Thự,
+44,1202,617,1236,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1265,1089,1290,30/12/2021 19:53:02,

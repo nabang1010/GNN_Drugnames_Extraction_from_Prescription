@@ -1,0 +1,34 @@
+xmin,ymin,xmax,ymax,Object,label
+28,58,158,76,TYT XÃ VĂN LÝ,
+372,91,535,123,Số phiếu 1473/2019,
+626,100,688,118,4925310,
+260,122,508,152,TOA THUỐC BHYT,
+618,160,655,177,Nam,
+685,160,708,177,Nữ,
+300,207,322,225,35,
+366,207,387,225,35,
+436,207,466,225,207,
+509,207,560,225,94598,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,254,125,274,Cận lâm sàng:,
+28,272,585,294,Chấn đoán: S80 - Tồn thương nông tại cẳng chân/ rách da cẳng chân phải dài 4cm,diagnose
+46,387,319,412,"1) DROXICEF 500MG 0,5g",drugname
+595,387,708,409,SL: 20 Viên,quantity
+34,411,161,436,Ghi chú Uống:,
+44,438,274,466,2) PANACTOL 500mg,drugname
+595,439,708,461,SL: 10 Viên,quantity
+34,463,161,488,Ghi chú Uống:,
+44,490,266,518,"3) ALFACHIM 4,2mg",drugname
+595,491,708,513,SL: 20 Viên,quantity
+34,515,161,540,Ghi chú Uống:,
+33,548,197,568,Cộng khoản: 3 khoản,
+33,571,163,590,Lời dặn đơn thuốc:,
+33,598,167,616,Ngày hẹn tái khám:,
+484,633,621,652,Ngày 03/05/2019,date
+65,652,198,670,Bệnh nhân ký nhận,
+494,658,611,678,"Y, Bác sĩ điều trị",
+449,732,645,759,YS. Nguyễn Hồng Phong,
+33,788,416,811,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+588,829,730,845,15/05/2021 07:33:37,

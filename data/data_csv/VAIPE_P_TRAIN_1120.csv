@@ -1,0 +1,41 @@
+xmin,ymin,xmax,ymax,Object,label
+26,77,150,97,Khoa Khám bệnh,
+26,107,144,132,PK Số 1 [Ngoại],
+372,111,546,138,Số phiếu 20418/2019,
+625,117,690,137,4740654,
+259,139,508,173,TOA THUỐC BHYT,
+621,179,654,195,Nam,
+687,179,710,195,Nữ,
+434,224,468,244,208,
+510,224,561,244,42052,
+252,226,323,244,4,
+368,228,388,244,35,
+170,252,308,270,Lần/phút Huyết áp:,
+28,255,73,270,Mạch:,
+452,255,596,272,MMHg Thân nhiệt:,
+26,270,561,294,"Cận lâm sàng: Chụp Xquang xương bàn, ngón chân thẳng, nghiêng hoặc chếch",
+28,292,430,314,Chấn đoán: S90 - Tổn thương nông tại cổ chân và bàn chân,diagnose
+46,401,273,430,"1) CEFADROXIL 0,5g",drugname
+594,403,707,426,SL: 20 Viên,quantity
+37,430,160,455,Ghi chú Uống:,
+287,431,377,456,Sáng 2 Viên,usage
+512,432,607,450,Chiều 2 Viên,usage
+44,454,290,483,2) MYPARA 500 500mg,drugname
+594,457,707,479,SL: 10 Viên,quantity
+35,481,160,506,Ghi chú Uống:,
+512,483,607,503,Chiều 1 Viên,usage
+288,485,377,505,Sáng 1 Viên,usage
+44,506,290,534,"3) STATRIPSINE 4,2mg",drugname
+594,508,707,530,SL: 20 Viên,quantity
+288,536,377,559,Sáng 2 Viên,usage
+512,536,607,554,Chiều 2 Viên,usage
+37,536,162,557,Ghi chú Uống:,
+33,565,197,585,Cộng khoản: 3 khoản,
+33,590,164,607,Lời dặn đơn thuốc:,
+33,616,168,636,Ngày hẹn tái khám:,
+483,650,621,670,Ngày 02/04/2019,date
+64,670,199,690,Bệnh nhân ký nhận,
+494,675,612,699,"Y, Bác sĩ điều trị",
+461,749,634,776,BS. Lương Tiến Dũng,
+33,805,415,829,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+585,847,732,865,27/12/2021 21:12:52,

@@ -1,0 +1,25 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+1012,212,1057,240,Nữ,
+702,215,962,250,Cân nặng kg nam,
+37,349,1042,394,Chấn đoán: E11 - Bệnh đái tháo đường không phụ thuộc insuline; (E78.2),diagnose
+37,389,1067,434,Tăng lipid máu hỗn hợp; (G46?) Hội chứng mạch máu não trong bệnh mạch,diagnose
+37,432,237,462,NÃO (I60-1670),diagnose
+37,468,242,510,Thuốc điều trị:,
+37,516,577,560,1) Metformin (Metformin 500) 500mg,drugname
+282,584,847,625,Uống sau khi ăn: sáng 1 viên tối 1 viên,usage
+42,590,197,617,SL: 64 Viên,quantity
+35,645,545,685,2) Atorvastatin (Atoris 20mg) 20mg,drugname
+282,712,672,750,Uống sau khi ăn: TỐI 1 Viên,usage
+42,717,197,745,SL: 30 Viên,quantity
+37,770,892,815,"3) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",drugname
+282,842,737,882,Uống: Sáng 2 viên CHIều 2 viên,usage
+42,844,189,874,SL: 40 viên,quantity
+42,900,480,943,Lời dặn: KHÁM LẠI 26/1/2022,
+647,952,1027,992,Ngày 23 tháng 12 năm 2021,date
+677,999,1002,1039,Bác sỹ/Y sỹ khám bệnh,
+711,1041,970,1084,"(Ký, ghi rõ họ tên)",
+687,1185,992,1227,BS. Nguyễn Đức Thái,
+62,1235,510,1270,Khám lại xin mang theo đơn này,
+62,1278,1007,1324,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

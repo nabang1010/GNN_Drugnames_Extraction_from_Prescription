@@ -1,0 +1,43 @@
+xmin,ymin,xmax,ymax,Object,label
+37,97,412,127,TRẠM Y TẾ THỊ TRẤN BÌNH MỸ,
+554,151,795,193,Số phiếu 1749/2021,
+935,165,1025,190,4694257,
+387,195,757,242,TOA THUỐC BHYT,
+925,252,977,275,Nam,
+1022,252,1057,277,Nữ,
+762,322,835,350,52559,
+370,325,390,350,2,
+447,325,480,350,35,
+545,325,577,350,35,
+650,325,695,350,206,
+674,360,952,393,mmHg Thân nhiệt: 36.6,
+247,362,455,390,Lần/phút Huyết áp:,
+495,362,612,387,136,
+37,365,105,390,Mạch:,
+132,365,160,387,90,
+36,393,185,425,Cận lâm sàng:,
+37,422,1067,452,Chần đoán: T10 - Bệnh lý tăng huyết áp; (G46?) Hội chứng mạch máu não trong bệnh mạch não (160-,diagnose
+37,455,95,480,1677),diagnose
+64,591,402,632,1) KAVASDIN 5 5mg,drugname
+887,592,1055,625,SL: 60 Viên,quantity
+49,630,235,662,Ghi chú uống,
+932,632,1045,660,Tối 1 Viên,usage
+430,635,560,665,Sáng 1 Viên,usage
+64,669,380,710,2) ENALAPRIL 5mg,drugname
+887,672,1057,705,SL: 30 Viên,quantity
+49,705,223,742,Ghi chú Uống,
+430,712,560,742,Sáng 1 Viên,usage
+64,742,750,788,3) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg,drugname
+887,750,1050,782,SL: 20 viên,quantity
+49,784,235,820,Ghi chú Uống:,
+934,788,1040,820,Tối 2 viên,usage
+430,792,552,820,Sáng 2 viên,usage
+44,832,290,864,Cộng khoản: 3 khoản,
+45,867,620,900,Lời dặn đơn thuốc: uống thuốc theo toa - tái khám 13/8,
+45,910,247,937,Ngày hẹn tái khám:,
+722,962,925,990,Ngày 14/07/2021,date
+92,990,292,1017,Bệnh nhân ký nhận,
+737,1000,912,1030,"Y, Bác sĩ điều trị",
+655,1110,980,1147,BS. Nguyễn Thị Hồng Hạnh,
+44,1194,617,1227,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1257,1089,1280,04/01/2022 22:19:17,

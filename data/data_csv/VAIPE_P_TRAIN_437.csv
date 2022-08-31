@@ -1,0 +1,35 @@
+xmin,ymin,xmax,ymax,Object,label
+26,60,148,78,Khoa Khám bệnh,
+26,89,137,112,PK Số 5.1 [TĐ],
+372,92,547,121,Số phiếu 71335/2018,
+626,100,688,118,4765919,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+366,207,387,224,35,
+436,207,466,225,207,
+509,207,561,225,92046,
+300,208,322,225,35,
+250,210,262,224,2,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,235,73,250,Mạch:,
+28,255,717,275,"Cận lâm sàng: Đo hoạt độ ALT (GPT) (Máu), Đo hoạt độ AST (GOT) (Máu), Định lượng Cholesterol",
+26,275,732,294,"toàn phần (máu), Định lượng Glucose (Máu), Định lượng HDL-C (High density lipoprotein Cholesterol)",
+28,294,648,314,"(Máu], Định lượng Triglycerid (máu) (Máu), Tổng phân tích nước tiểu (Bằng máy tự động);",
+28,312,740,335,Chấn đoán: E78 - Rối loạn chuyển hoá lipoprotein và tỉnh trạng tăng lipid máu khác; (E1i) TD Bệnh đái,diagnose
+26,332,426,352,tháo đường không phụ thuộc insulin; (K76) Bệnh gan khác,diagnose
+46,426,479,453,1) CHORLATCYN 125mg;50mg;50mg;25mg,drugname
+595,426,708,449,SL: 10 Viên,quantity
+34,449,232,477,Ghi chú Uống sau khi ăn:,
+513,453,605,471,Chiều 1 Viên,usage
+288,453,376,475,Sáng 1 Viên,usage
+33,483,197,503,Cộng khoản: 1 khoản,
+33,506,163,524,Lời dặn đơn thuốc:,
+33,533,167,553,Ngày hẹn tái khám:,
+484,568,621,586,Ngày 14/11/2018,date
+65,586,198,605,Bệnh nhân ký nhận,
+494,595,611,613,"Y, Bác sĩ điều trị",
+459,670,633,692,BS. Hoàng Thị Hường,
+33,723,414,746,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+588,765,728,782,10/05/2021 15:46:41,

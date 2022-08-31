@@ -1,0 +1,34 @@
+xmin,ymin,xmax,ymax,Object,label
+58,28,113,58,1/1,
+26,89,127,113,PK Số 2 [Nội],
+372,91,547,123,Số phiếu 56737/2018,
+626,101,688,118,4788800,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+300,207,322,225,35,
+366,207,387,225,35,
+436,207,468,225,208,
+509,207,560,225,08480,
+250,210,262,224,2,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,254,733,275,"Cận lâm sảng: Định lượng Cholesterol toàn phần (máu), Định lượng Glucose (Máu), Định lượng HDL-Châu Trong",
+28,275,730,294,"(High density lipoprotein Cholesterol) (Máu), Định lượng Triglycerid (máu) (Máu); Siêu âm hệ tiết niệu",
+26,294,524,314,"(thận, tuyến thượng thận, bàng quang, tiền liệt tuyến), Siêu âm tuyến giáp",
+28,312,735,335,Chấn đoán: E78 - Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác; (Ell) TD Bệnh đái,diagnose
+26,330,484,354,tháo đường không phụ thuộc insulin; (N40) Tăng sản tuyến tiền liệt,diagnose
+46,424,299,453,1) LENINARTO 10 10mg,drugname
+595,426,708,449,SL: 62 Viên,quantity
+34,449,161,475,Ghi chú Uống:,
+625,453,700,471,Tối 2 Viên,usage
+33,483,197,503,Cộng khoản: 1 khoản,
+33,506,163,524,Lời dặn đơn thuốc:,
+33,531,316,553,"Ngày hẹn tái khám: Thứ hai, 15/10/2018",
+484,568,621,586,Ngày 14/09/2018,date
+65,586,198,605,Bệnh nhân ký nhận,
+494,595,611,613,"Y, Bác sĩ điều trị",
+469,663,625,692,BS. Đào Tiến Trung,
+33,723,414,746,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+586,765,730,782,05/05/2021 08:27:25,

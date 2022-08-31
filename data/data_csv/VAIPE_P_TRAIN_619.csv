@@ -1,0 +1,29 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+702,215,962,250,Cân nặng kg nam,
+1012,215,1057,242,Nữ,
+37,349,1067,394,Chẩn đoán: H61.2 - Nút ráy tai trái; (H66) Viêm tai giữa nung mủ và không,diagnose
+37,389,1082,431,đặc hiệu; (J37) Viêm thanh quản và viêm thanh khí quản mãn tính; (H81) Rối,diagnose
+34,425,370,471,loạn chức năng tiền đình,diagnose
+37,466,243,510,Thuốc điều trị:,
+37,515,512,560,"1) Cefalexin (Firstlexin 500) 0,5g",drugname
+282,585,897,622,Uống: Sáng 2 Viên CHIều 2 Viên Tối 2 Viên,usage
+42,590,195,617,SL: 30 Viên,quantity
+35,644,529,684,2) Carbocistein (Anpemux) 250mg,drugname
+282,712,752,755,Uống: Sáng 2 Viên CHIều 2 Viên,usage
+42,717,197,745,SL: 20 Viên,quantity
+37,775,585,812,3) Paracetamol (Partamol Tab.) 500mg,drugname
+282,842,750,880,Uống: Sáng 1 Viên CHIều 1 Viên,usage
+42,845,200,877,SL: 10 Viên,quantity
+37,897,892,942,"4) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",drugname
+282,970,879,1010,Uống: Sáng 3 viên CHiều 3 viên Tối 3 viên,usage
+42,975,190,1002,SL: 90 viên,quantity
+42,1027,1097,1070,Lời dặn: Uống thuốc theo toa + tái khám sau 1 tuần % nghỉ dưỡng theo chế độ,
+42,1072,140,1100,BHXH,
+647,1082,1027,1120,Ngày 24 tháng 12 năm 2021,date
+680,1130,1002,1165,Bác sỹ/Y sỹ khám bệnh,
+712,1175,969,1212,"(Ký, ghi rõ họ tên)",
+681,1336,998,1388,BS. Nguyễn Thế Chiến,
+62,1392,512,1430,Khám lại xin mang theo đơn này,
+62,1437,1007,1480,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

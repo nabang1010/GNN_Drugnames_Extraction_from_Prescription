@@ -1,0 +1,43 @@
+xmin,ymin,xmax,ymax,Object,label
+37,102,217,130,Khoa Khám bệnh,
+37,146,188,180,Bốc khám nội,
+554,151,813,193,Số phiếu 44323/2021,
+935,165,1027,190,4690079,
+387,195,757,242,TOA THUỐC BHYT,
+925,252,977,277,Nam,
+1022,252,1057,277,Nữ,
+650,322,695,350,970,
+762,322,832,350,01561,
+370,325,387,350,3,
+447,325,480,350,35,
+545,325,577,350,25,
+247,360,455,390,lần/phút Huyết áp:,
+674,360,950,393,mmHg Thân nhiệt: 36.7,
+37,365,105,390,Mạch:,
+132,365,160,387,75,
+500,365,612,387,110/80,
+37,392,1085,425,"Cận lâm sảng: Tổng phân tích nước tiểu (Bằng máy tự động), Tổng phân tích tế bào máu ngoại vi (bằng",
+37,422,1047,452,"máy đếm laser), Định lượng Acid Uric (Máu), Định lượng Cholesterol toàn phần (máu), Định lượng",
+37,455,992,482,"Glucose [Máu], Định lượng HDL-C (High density lipoprotein Cholesterol) [Máu], Định lượng",
+37,480,1057,512,"Triglycerid (máu) [Máu], Đo hoạt độ ALT (GPT) [Máu], Đo hoạt độ AST (GOT) [Máu], Định lượng",
+37,505,532,542,"Creatinin (máu), Điện giải đồ (Na, K, Cl) [Máu];",
+37,535,857,567,Chấn đoán: 110 - Bệnh lý tăng huyết áp; (E78.1) Tăng triglycerid máu đơn thuần,diagnose
+64,705,377,745,1) ENALAPRIL 5mg,drugname
+887,707,1072,740,SL: 120 Viên,quantity
+49,742,235,780,Ghi chú Uống:,
+767,747,905,775,Chiều 1 Viên,usage
+430,750,560,780,Sáng 1 Viên,usage
+64,784,382,825,2) PAMLONOR 5mg,drugname
+887,785,1072,817,SL: 120 Viên,quantity
+49,820,223,857,Ghi chú Uống,
+767,825,905,852,Chiều 1 Viên,usage
+430,827,560,857,Sáng 1 Viên,usage
+45,870,290,900,Cộng khoản: 2 khoản,
+45,902,562,932,Lời dặn đơn thuốc: Hẹn KHám Lại 14/11/2021,
+45,945,247,975,Ngày hẹn tái khám:,
+722,997,925,1027,Ngày 14/09/2021,date
+92,1025,292,1052,Bệnh nhân ký nhận,
+737,1035,912,1067,"Y, Bác sĩ điều trị",
+672,1147,957,1177,BSCKI. Trần Minh Tuấn,
+44,1229,617,1264,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1292,1089,1317,05/01/2022 22:21:55,

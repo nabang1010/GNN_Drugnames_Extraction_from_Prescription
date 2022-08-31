@@ -1,0 +1,19 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+702,215,1057,250,Cân nặng kg nam x,
+37,350,1007,392,Chẩn đoán: N40 - Tăng sản tuyến tiền liệt; (N20) Sỏi thận và niệu quản,diagnose
+37,398,242,440,Thuốc điều trị:,
+37,441,810,490,"1) Kim tiền thảo, râu ngô (Kim tiền thảo) 120mg+35mg",drugname
+282,515,714,552,Uống: Sáng 5 Viên Tối 5 Viên,usage
+42,520,212,547,SL: 100 Viên,quantity
+34,575,682,617,2) Drotaverin clohydrat (Dromasm fort) 80mg,drugname
+282,642,715,683,Uống: Sáng 1 Viên TốI 1 Viên,usage
+42,647,195,675,SL: 20 Viên,quantity
+42,710,160,745,Lời dặn:,
+647,755,1027,792,Ngày 24 tháng 12 năm 2021,date
+680,802,1002,840,Bác sỹ/Y sỹ khám bệnh,
+712,847,970,885,"(Ký, ghi rõ họ tên)",
+682,992,995,1020,BSCKI. Lưu Minh Tân,
+62,1037,507,1072,Khám lại xin mang theo đơn này,
+62,1082,1007,1125,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

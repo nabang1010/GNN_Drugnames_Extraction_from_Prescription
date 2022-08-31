@@ -1,0 +1,40 @@
+xmin,ymin,xmax,ymax,Object,label
+26,77,150,97,Khoa Khám bệnh,
+25,104,129,132,PK Số 2 [Nội],
+372,111,543,138,Số phiếu 56818/2021,
+625,117,690,137,5071945,
+259,139,508,173,TOA THUỐC BHYT,
+621,179,654,195,Nam,
+687,179,710,195,Nữ,
+186,226,215,244,DN,
+252,226,323,244,4,
+439,226,468,244,140,
+512,226,561,244,01147,
+170,252,306,270,lần/phút Huyết áp:,
+28,255,73,270,Mạch:,
+452,255,596,272,MMHg Thân nhiệt:,
+28,272,303,292,Cận lâm sàng: chụp Xquang ngực thẳng,
+26,290,483,312,Chẩn đoán: D34 - Ủ lành của tuyến giáp; (J20) Viêm phế quản cấp,diagnose
+46,402,244,430,"1) DROXICEF 0,5g",drugname
+594,403,707,426,SL: 28 Viên,quantity
+37,430,160,455,Ghi chú Uống:,
+287,431,377,456,Sáng 2 Viên,usage
+512,432,607,450,Chiều 2 Viên,usage
+44,454,255,483,2) DIXIREIN 375mg,drugname
+594,457,707,479,SL: 28 Viên,quantity
+512,483,607,503,Chiều 2 Viên,usage
+37,483,153,506,Ghi chú Uống,
+288,485,377,505,Sáng 2 Viên,usage
+44,506,288,534,3) MENISON 4MG 4mg,drugname
+594,508,707,530,SL: 15 Viên,quantity
+288,536,377,559,Sáng 3 Viên,usage
+37,539,153,556,Ghi chú uống,
+33,565,197,585,Cộng khoản: 3 khoản,
+33,590,164,607,Lời dặn đơn thuốc:,
+33,616,168,636,Ngày hẹn tái khám:,
+483,650,621,670,Ngày 20/12/2021,date
+63,667,199,691,Bệnh nhân ký nhận,
+494,676,612,696,"Y, Bác sĩ điều trị",
+472,748,619,775,BS. Trần Mạnh Hà,
+33,805,415,829,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+585,847,732,865,29/12/2021 23:38:19,

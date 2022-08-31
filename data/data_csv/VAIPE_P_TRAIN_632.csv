@@ -1,0 +1,36 @@
+xmin,ymin,xmax,ymax,Object,label
+57,46,115,77,1/1,
+25,106,129,132,PK Số 2 [Nội],
+372,111,546,138,Số phiếu 51224/2020,
+625,117,690,137,4782439,
+259,139,508,173,TOA THUỐC BHYT,
+621,179,710,195,Nam x nữ,
+510,224,559,244,75221,
+434,226,468,244,207,
+368,228,388,244,35,
+170,252,306,270,lần/phút Huyết áp:,
+28,255,73,270,Mạch:,
+452,255,596,272,MMHg Thân nhiệt:,
+28,272,692,295,"Cận lâm sảng: Định lượng Acid Uric (Máu), Định lượng Cholesterol toàn phần (máu), Định lượng",
+26,292,665,312,"Glucose [Máu], Định lượng HDL-C (High density lipoprotein Cholesterol) (Máu), Định lượng",
+28,315,201,330,Triglycerid (máu) [máu],
+28,331,718,354,Chần đoán: M10 - Gút (thống phong): (E11) TD Bệnh đái tháo đường không phụ thuộc insulin; (E78),diagnose
+26,350,634,372,TD Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác; (M25.5) Đau khớp,diagnose
+46,441,253,470,1) COLCHICIN 1mg,drugname
+594,443,707,465,SL: 10 Viên,quantity
+35,468,162,493,Ghi chú Uống:,
+288,472,377,492,Sáng 1 Viên,usage
+44,491,275,523,2) PANACTOL 500mg,drugname
+594,497,707,519,SL: 20 Viên,quantity
+37,521,153,546,Ghi chú Uống,
+287,522,377,547,Sáng 2 Viên,usage
+514,523,607,543,Chiều 2 Viên,usage
+33,552,197,572,Cộng khoản: 2 khoản,
+30,574,164,598,Lời dặn đơn thuốc:,
+33,603,168,623,Ngày hẹn tái khám:,
+483,635,623,659,Ngày 17/09/2020,date
+64,656,199,676,Bệnh nhân ký nhận,
+494,661,612,685,"Y, Bác sĩ điều trị",
+457,738,636,763,BS. Trương Văn Nghĩa,
+33,794,417,816,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+585,834,732,852,06/01/2022 10:44:34,

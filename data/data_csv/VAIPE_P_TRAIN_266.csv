@@ -1,0 +1,18 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+1012,212,1057,240,Nữ,
+702,215,962,250,Cân nặng kg nam,
+37,349,1070,391,Chẩn đoán: M13 - Các viêm khớp khác; (R07.2) Đau trước tim; (G46?) Hội,diagnose
+37,390,765,430,chứng mạch máu não trong bệnh mạch não (I60-167'),diagnose
+37,428,242,470,Thuốc điều trị:,
+37,473,892,520,"1) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",drugname
+282,544,735,588,Uống: Sáng 3 viên CHIều 3 viên,usage
+42,550,190,577,SL: 60 viên,quantity
+41,611,161,649,Lời dặn:,
+647,654,1027,696,Ngày 23 tháng 12 năm 2021,date
+680,705,1002,742,Bác sỹ/Y sỹ khám bệnh,
+712,750,970,787,"(Ký, ghi rõ họ tên)",
+669,883,1008,936,BSCKI. Vũ Hồng Thanh,
+62,940,507,975,Khám lại xin mang theo đơn này,
+62,985,1007,1027,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

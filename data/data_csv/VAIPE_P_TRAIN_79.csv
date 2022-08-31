@@ -1,0 +1,35 @@
+xmin,ymin,xmax,ymax,Object,label
+58,28,113,58,1/1,
+372,91,535,123,Số phiếu 1894/2019,
+626,101,688,118,4702098,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+366,207,387,225,35,
+436,207,466,225,207,
+511,207,560,225,63439,
+300,208,322,225,35,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,254,125,274,Cận lâm sàng:,
+28,272,703,294,Chấn đoán: [10 - Tăng huyết áp vô căn (nguyên phát); (G46?) Hội chứng mạch máu não trong bệnh,diagnose
+28,294,168,312,mạch não (160-1677),diagnose
+46,386,294,413,1) RENAPRIL 5MG 5mg,drugname
+595,387,708,409,SL: 30 Viên,quantity
+34,411,161,436,Ghi chú Uống:,
+45,435,501,466,2) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg,drugname
+595,439,708,461,SL: 20 Viên,quantity
+34,463,161,488,Ghi chú Uống:,
+45,491,362,518,3) VENRUTINE 100mg +500mg,drugname
+595,491,708,513,SL: 10 Viên,quantity
+34,515,161,540,Ghi chú Uống:,
+33,548,197,568,Cộng khoản: 3 khoản,
+33,571,163,590,Lời dặn đơn thuốc:,
+33,598,167,616,Ngày hẹn tái khám:,
+484,633,621,652,Ngày 08/07/2019,date
+65,652,198,670,Bệnh nhân ký nhận,
+494,658,611,678,"Y, Bác sĩ điều trị",
+462,730,632,760,YS. Nguyễn Văn Huy,
+33,788,416,811,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+588,829,732,845,19/05/2021 09:20:50,

@@ -1,0 +1,40 @@
+xmin,ymin,xmax,ymax,Object,label
+37,102,217,129,Khoa Khám bệnh,
+37,147,187,177,Bốc khám nhi,
+554,151,813,193,Số phiếu 48745/2021,
+935,165,1027,190,4905983,
+387,195,757,242,TOA THUỐC BHYT,
+925,252,977,275,Nam,
+1022,252,1057,277,Nữ,
+762,322,835,350,18404,
+370,325,390,350,2,
+447,325,480,350,35,
+545,325,577,350,35,
+650,325,695,350,206,
+247,360,612,390,Lần/phút Huyết áp: 120,
+674,361,930,393,mmHg Thân nhiệt: 37,
+37,365,105,390,Mạch:,
+132,365,160,387,80,
+37,390,1065,425,"Cận lâm sảng: Chụp Xquang cột sống thắt lưng thẳng nghiêng, Điện tim thường, Siêu âm ổ bung (gan",
+37,425,367,452,"mật, tụy, lách, thận, bàng quang)",
+37,450,1042,480,Chấn đoán: H81 - Rối loạn chức năng tiền đình; (R07.2) Đau trước tim; (N20) TD Sỏi thận và niệu,diagnose
+37,479,452,509,quản; (M47) thoái hóa cột sống thắt lưng,diagnose
+64,615,750,660,1) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg,drugname
+887,622,1047,650,SL: 40 viên,quantity
+49,655,235,693,Ghi chú Uống:,
+767,660,897,687,Chiều 2 viên,usage
+430,665,552,692,Sáng 2 viên,usage
+64,697,495,737,2) PARTAMOL TAB. 500mg,drugname
+887,700,1057,732,SL: 20 Viên,quantity
+49,732,235,770,Ghi chú Uống:,
+765,737,905,765,Chiều 2 Viên,usage
+430,742,557,770,Sáng 2 Viên,usage
+45,785,290,812,Cộng khoản: 2 khoản,
+44,816,242,848,Lời dặn đơn thuốc:,
+45,860,247,887,Ngày hẹn tái khám:,
+722,912,925,940,Ngày 15/10/2021,date
+92,940,292,967,Bệnh nhân ký nhận,
+737,952,912,980,"Y, Bác sĩ điều trị",
+705,1060,925,1090,BS. Trần Khắc Phú,
+44,1141,617,1179,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1207,1089,1230,04/01/2022 22:17:09,

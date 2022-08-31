@@ -1,0 +1,22 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+1012,212,1057,240,Nữ,
+702,215,962,250,Cân nặng kg nam,
+37,350,1020,392,Chẩn đoán: I10 - Bệnh lý tăng huyết áp Độ 2; (170) Xơ vữa động mạch;,diagnose
+37,390,1102,430,(E79.0) Tăng acid uric máu không có biểu hiện của viêm khớp và bệnh tạo sỏi;,diagnose
+37,429,932,472,(G46?) Hội chứng mạch máu não trong bệnh mạch não (160-1677),diagnose
+39,466,243,510,Thuốc điều trị:,
+37,515,950,560,"1) Telmisartan % hydroclorothiazid (Hangitor plus) 40mg+12,5mg",drugname
+282,585,542,622,Uống: Sáng 1 viên,usage
+42,590,190,617,SL: 30 viên,quantity
+34,641,892,687,"2) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",drugname
+282,712,735,753,Uống: Sáng 2 viên CHIều 2 viên,usage
+42,717,190,745,SL: 40 viên,quantity
+42,773,662,815,Lời dặn: Hẹn Tái Khám Ngày 24/1/2022,
+647,825,1027,862,Ngày 23 tháng 12 năm 2021,date
+680,872,1002,910,Bác sỹ/Y sỹ khám bệnh,
+712,917,970,955,"(Ký, ghi rõ họ tên)",
+662,1054,1017,1103,BSCKI. Nguyễn Văn Thự,
+62,1107,507,1142,Khám lại xin mang theo đơn này,
+62,1152,1007,1195,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

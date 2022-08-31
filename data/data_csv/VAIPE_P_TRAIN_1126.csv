@@ -1,0 +1,41 @@
+xmin,ymin,xmax,ymax,Object,label
+58,28,113,58,1/1,
+26,89,129,113,PK Số 7 [Mắt],
+372,91,545,122,Số phiếu 19395/2021,
+626,100,688,118,5098237,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+185,207,215,225,HC,
+300,207,322,225,35,
+366,207,387,225,35,
+436,207,466,225,212,
+509,207,560,225,28747,
+451,231,595,255,mmHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,254,125,274,Cận lâm sàng:,
+28,272,351,295,Chẩn đoán: J06.0 - Viêm họng - thanh quản cấp,diagnose
+46,387,349,412,"1) CEFADROXIL 500MG 0,5g",drugname
+595,387,708,409,SL: 28 Viên,quantity
+34,411,161,436,Ghi chú Uống:,
+514,414,605,433,Chiều 2 Viên,usage
+289,416,376,436,Sáng 2 Viên,usage
+45,438,317,466,2) VIPREDNI 16MG 16mg,drugname
+595,439,708,461,SL: 10 Viên,quantity
+34,464,232,490,Ghi chú Uống sau khi ăn:,
+289,468,376,488,Sáng 2 Viên,usage
+45,489,334,518,3) PARTAMOL TAB. 500mg,drugname
+595,491,708,513,SL: 20 Viên,quantity
+34,515,161,540,Ghi chú Uống:,
+513,518,605,536,Chiều 2 Viên,usage
+289,519,376,540,Sáng 2 Viên,usage
+33,548,197,568,Cộng khoản: 3 khoản,
+33,571,163,590,Lời dặn đơn thuốc:,
+33,598,167,616,Ngày hẹn tái khám:,
+484,633,620,652,Ngày 02/04/2021,date
+65,652,198,670,Bệnh nhân ký nhận,
+494,658,611,678,"Y, Bác sĩ điều trị",
+461,732,631,757,BS. Lương Tiến Dũng,
+33,788,416,811,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+588,829,730,845,10/05/2021 10:43:22,

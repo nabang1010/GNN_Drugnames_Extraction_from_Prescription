@@ -1,0 +1,36 @@
+xmin,ymin,xmax,ymax,Object,label
+57,46,115,77,1/1,
+372,109,535,140,Số phiếu 3277/2020,
+625,117,690,137,4661158,
+259,139,508,173,TOA THUỐC BHYT,
+621,179,654,195,Nam,
+687,179,710,195,Nữ,
+434,224,468,244,207,
+510,224,561,244,36256,
+368,228,388,244,35,
+170,252,306,270,lần/phút Huyết áp:,
+28,255,75,270,Mạch:,
+452,255,596,272,MMHg Thân nhiệt:,
+28,273,126,293,Cận lâm sàng:,
+26,290,525,310,Chần đoán: J20 - Viêm phế quản cấp; (K05) Viêm nướu và bệnh nha chu trong thị,diagnose
+46,401,366,430,1) AMOXICILIN 500MG 500mg,drugname
+594,403,707,426,SL: 20 Viên,quantity
+37,434,159,452,Ghi chú uống,
+44,454,377,483,2) METRONIDAZOL 250 250mg,drugname
+594,457,707,479,SL: 20 Viên,quantity
+37,486,160,506,Ghi chú uống:,
+44,508,343,534,3) TYDOL PM 500mg + 25mg,drugname
+594,508,707,530,SL: 10 Viên,quantity
+37,537,153,557,Ghi chú Uống,
+46,559,370,588,4) BROMHEXIN ACTAVIS 8mg,drugname
+594,561,707,583,SL: 20 Viên,quantity
+37,588,153,610,Ghi chú Uống,
+35,619,197,639,Cộng khoản: 4 khoản,
+33,643,164,661,Lời dặn đơn thuốc:,
+33,667,168,687,Ngày hẹn tái khám:,
+483,703,623,723,Ngày 07/12/2020,date
+64,721,199,741,Bệnh nhân ký nhận,
+497,732,612,749,"Y, Bác sĩ điều trị",
+445,802,648,828,NV. Đặng Thị Thu Huyền,
+33,858,417,880,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+585,898,732,918,29/12/2021 23:25:35,

@@ -1,0 +1,50 @@
+xmin,ymin,xmax,ymax,Object,label
+37,102,217,129,Khoa Khám bệnh,
+37,146,330,185,Bốc khám răng - hàm -mặt,
+554,151,813,193,Số phiếu 60310/2021,
+935,165,1027,190,4905983,
+387,195,757,242,TOA THUỐC BHYT,
+925,252,977,275,Nam,
+1022,252,1057,277,Nữ,
+762,322,835,350,18404,
+370,325,390,350,2,
+447,325,480,350,35,
+545,325,577,350,35,
+650,325,695,350,206,
+674,361,930,393,mmHg Thân nhiệt: 37,
+247,362,455,390,Lần/phút Huyết áp:,
+37,365,105,390,Mạch:,
+132,365,160,387,78,
+500,367,615,387,120,
+37,393,185,422,Cận lâm sàng:,
+37,421,1100,454,"Chấn đoán: K12.2 - Viêm mô tế bào và áp xe của miệng; (KO4) Bệnh tủy và mô quanh chân răng 45,46;",diagnose
+37,452,707,484,(G46%) Hội chứng mạch máu não trong bệnh mạch não (I60-1677),diagnose
+64,590,455,632,1) FABAMOX 500 500mg,drugname
+887,592,1057,625,SL: 20 Viên,quantity
+49,630,235,662,Ghi chú uống,
+767,632,905,660,Chiều 2 Viên,usage
+430,635,560,665,Sáng 2 Viên,usage
+64,670,495,710,2) PARTAMOL TAB. 500mg,drugname
+887,672,1057,705,SL: 10 Viên,quantity
+49,705,235,743,Ghi chú Uống:,
+767,710,905,737,Chiều 1 Viên,usage
+429,711,560,744,Sáng 1 Viên,usage
+64,747,560,787,3) METRONIDAZOL 250 250mg,drugname
+887,750,1057,782,SL: 20 Viên,quantity
+49,786,235,820,Ghi chú uống:,
+767,790,905,815,Chiều 2 Viên,usage
+430,792,560,820,Sáng 2 Viên,usage
+64,820,750,868,4) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg,drugname
+887,827,1050,860,SL: 20 viên,quantity
+49,862,235,900,Ghi chú Uống:,
+767,867,897,895,Chiều 2 viên,usage
+430,870,552,900,Sáng 2 viên,usage
+45,912,290,940,Cộng khoản: 4 khoản,
+44,944,242,976,Lời dặn đơn thuốc:,
+45,987,247,1015,Ngày hẹn tái khám:,
+722,1040,925,1070,Ngày 27/12/2021,date
+92,1067,292,1095,Bệnh nhân ký nhận,
+737,1077,913,1110,"Y, Bác sĩ điều trị",
+667,1190,965,1227,BSCKI. Nguyễn Ngọc Tri,
+44,1272,617,1306,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1334,1089,1359,04/01/2022 22:17:23,

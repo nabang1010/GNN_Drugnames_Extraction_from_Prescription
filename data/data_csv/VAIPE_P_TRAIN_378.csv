@@ -1,0 +1,51 @@
+xmin,ymin,xmax,ymax,Object,label
+37,102,217,129,Khoa Khám bệnh,
+37,146,188,180,Bốc khám nội,
+554,151,780,193,Số phiếu 516/2022,
+935,165,1027,190,4656986,
+387,195,757,242,TOA THUỐC BHYT,
+925,252,977,275,Nam,
+1022,252,1057,277,Nữ,
+650,322,695,350,205,
+760,322,835,350,92310,
+370,325,387,350,3,
+447,325,480,350,35,
+545,325,577,350,35,
+250,360,455,390,lần/phút Huyết áp:,
+674,361,930,393,mmHg Thân nhiệt: 37,
+37,365,105,390,Mạch:,
+132,365,160,387,80,
+500,367,612,387,130,
+37,392,1030,425,"Cận lâm sảng: Định lượng Acid Uric [Máu], Định lượng Cholesterol toàn phần (máu), Định lượng",
+37,425,992,452,"Glucose [Máu], Định lượng HDL-C (High density lipoprotein Cholesterol) [Máu], Định lượng",
+37,450,1072,482,"Triglycerid (máu) [Máu], Định lượng Creatinin (máu), Điện giải đồ (Na, K, CI) [Máu], Tổng phân tích",
+34,479,1040,514,"nước tiều (Bằng máy tự động), Tổng phân tích tế bào máu ngoại vi (bằng máy đếm laser); Điện tim",
+32,504,115,541,thường,
+37,535,1052,567,Chấn đoán: T10 - Bệnh lý tăng huyết áp; (149) Loạn nhịp tim khác; (E78.2) Tăng lipid máu hỗn hợp;,diagnose
+37,567,707,597,(G46%) Hội chứng mạch máu não trong bệnh mạch não (I60-1677),diagnose
+887,707,1047,739,SL:34 viên,quantity
+65,707,597,747,"1) HANGITOR PLUS 40mg+12,5mg",drugname
+49,742,235,780,Ghi chú Uống:,
+430,750,552,780,Sáng 1 viên,usage
+64,782,427,825,2) ATORIS 20MG 20mg,drugname
+887,784,1055,817,SL: 17 Viên,quantity
+49,820,223,857,Ghi chú Uống,
+932,825,1065,852,Tối 1/2 Viên,usage
+64,857,750,903,3) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg,drugname
+887,864,1049,897,SL: 40 viên,quantity
+49,900,223,935,Ghi chú Uống,
+765,902,897,930,Chiều 2 viên,usage
+430,907,552,935,Sáng 2 viên,usage
+64,940,477,980,"4) SAVIPROLOL 2,5 2,5mg",drugname
+887,942,1057,975,SL:34 Viên,quantity
+49,977,235,1013,Ghi chú Uống:,
+430,985,560,1012,Sáng 1 Viên,usage
+45,1027,289,1055,Cộng khoản: 4 khoản,
+45,1060,540,1090,Lời dặn đơn thuốc: Hẹn KHám Lại 7/2/2022,
+45,1102,247,1130,Ngày hẹn tái khám:,
+722,1155,927,1185,Ngày 05/01/2022,date
+92,1182,292,1210,Bệnh nhân ký nhận,
+737,1190,912,1222,"Y, Bác sĩ điều trị",
+680,1307,950,1337,BS. Đào Thị Bích Thủy,
+44,1384,617,1421,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1450,1090,1475,05/01/2022 22:01:52,

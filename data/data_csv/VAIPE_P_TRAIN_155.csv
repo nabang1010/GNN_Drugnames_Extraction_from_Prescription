@@ -1,0 +1,41 @@
+xmin,ymin,xmax,ymax,Object,label
+37,102,217,129,Khoa Khám bệnh,
+37,146,188,180,Bốc khám nội,
+554,151,813,193,Số phiếu 45369/2021,
+935,165,1027,190,4905674,
+387,195,757,242,TOA THUỐC BHYT,
+927,255,977,277,Nam,
+1022,255,1057,277,Nữ,
+762,322,835,350,39782,
+447,325,480,350,35,
+545,325,577,350,35,
+650,325,695,350,208,
+372,327,387,347,2,
+247,360,455,390,lần/phút Huyết áp:,
+674,360,962,393,mmHg Thân nhiệt: 363.7,
+37,365,105,390,Mạch:,
+132,365,160,387,80,
+500,365,615,387,110,
+37,392,1037,425,"Cận lâm sàng: Tổng phân tích tế bào máu ngoại vi (bằng máy đếm laser), Tổng phân tích nước tiểu",
+37,422,1095,452,"(Bằng máy tự động), Định lượng Acid Uric (Máu), Định lượng Cholesterol toàn phần (máu), Định lượng",
+37,452,992,482,"Glucose [Máu], Định lượng HDL-C (High density lipoprotein Cholesterol) [Máu], Định lượng",
+37,478,1087,512,"Triglycerid (máu) [Máu], Định lượng Creatinin (máu), Điện giải đồ (Na, K, Cl) [Máu]; Điện tim thường",
+37,510,864,540,Chấn đoán: I10 - Bệnh lý tăng huyết áp; (E78.0) Tăng cholesterol máu đơn thuần,diagnose
+64,677,392,717,1) INBACID 10 10mg,drugname
+887,680,1057,712,SL: 30 Viên,quantity
+49,716,235,750,Ghi chú uống:,
+932,720,1045,745,Tối 1 Viên,usage
+64,756,380,797,2) ENALAPRIL 5mg,drugname
+887,757,1057,790,SL: 60 Viên,quantity
+49,792,235,830,Ghi chú Uống:,
+765,797,905,825,Chiều 1 Viên,usage
+430,800,560,830,Sáng 1 Viên,usage
+45,842,290,870,Cộng khoản: 2 khoản,
+45,877,562,905,Lời dặn đơn thuốc: Hẹn KHám Lại 21/10/2021,
+45,917,247,945,Ngày hẹn tái khám:,
+722,970,925,1000,Ngày 21/09/2021,date
+92,997,292,1025,Bệnh nhân ký nhận,
+737,1007,913,1040,"Y, Bác sĩ điều trị",
+679,1117,950,1155,BS. Đào Thị Bích Thủy,
+44,1202,617,1236,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1265,1089,1290,05/01/2022 22:37:24,

@@ -1,0 +1,38 @@
+xmin,ymin,xmax,ymax,Object,label
+37,102,217,130,Khoa Khám bệnh,
+37,147,292,181,Bốc khám truyền nhiễm,
+554,151,813,193,Số phiếu 56963/2021,
+935,165,1027,190,4857034,
+387,195,757,242,TOA THUỐC BHYT,
+927,255,977,277,Nam,
+1025,257,1057,277,Nữ,
+650,322,695,347,030,
+762,322,835,350,00766,
+447,325,480,350,35,
+547,325,577,350,18,
+372,327,390,347,4,
+247,360,455,390,lần/phút Huyết áp:,
+674,360,950,393,mmHg Thân nhiệt: 36.8,
+37,365,105,390,Mạch:,
+132,365,160,387,78,
+500,367,612,387,120,
+37,395,1052,425,"Cận lâm sàng: Định lượng Acid Uric [Máu], Đo hoạt độ ALT (GPT) [Máu], Đo hoạt độ AST (GOT)",
+37,422,1015,452,"[Máu], Định lượng Bilirubin trực tiếp [Máu], Định lượng Bilirubin toàn phần [Máu], Định lượng",
+37,452,1075,482,"Bilirubin gián tiếp [Máu], Đo hoạt độ GGT (Gama Glutamyl Transferase) [Máu], Tổng phân tích nước",
+35,480,845,512,"tiểu (Bằng máy tự động); Siêu âm ổ bung (gan mật, tụy, lách, thận, bàng quang)",
+37,507,432,540,Chẩn đoán: K75 - Bệnh viêm gan khác,diagnose
+65,680,742,717,1) CHORLATCYN 125mg+50mg+50mg+25mg,drugname
+887,680,1050,712,SL: 30 viên,quantity
+49,716,235,750,Ghi chú uống:,
+765,717,897,745,Chiều 1 viên,usage
+934,719,1040,748,Tối 1 viên,usage
+430,722,552,750,Sáng 1 viên,usage
+45,765,290,792,Cộng khoản: 1 khoản,
+44,796,242,828,Lời dặn đơn thuốc:,
+45,840,247,867,Ngày hẹn tái khám:,
+722,892,925,920,Ngày 09/12/2021,date
+92,919,292,947,Bệnh nhân ký nhận,
+737,932,912,960,"Y, Bác sĩ điều trị",
+674,1033,956,1081,BSCKI. Vũ Hồng Thanh,
+44,1124,617,1157,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1187,1089,1212,05/01/2022 19:11:27,

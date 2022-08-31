@@ -1,0 +1,54 @@
+xmin,ymin,xmax,ymax,Object,label
+37,102,217,129,Khoa Khám bệnh,
+36,146,283,183,Bốc khám Tiểu đường 1,
+554,151,780,193,Số phiếu 471/2022,
+935,165,1027,190,4802713,
+387,195,755,242,TOA THUỐC BHYT,
+925,252,977,275,Nam,
+1022,252,1057,277,Nữ,
+762,322,835,350,41019,
+447,325,480,350,35,
+545,325,577,350,35,
+650,325,695,350,208,
+372,327,390,347,4,
+247,360,455,390,lần/phút Huyết áp:,
+674,361,887,393,mmHg Thân nhiệt:,
+37,365,105,390,Mạch:,
+500,367,612,387,130,
+37,392,1079,424,"Cận lâm sảng: Tổng phân tích tế bào máu ngoại vi (bằng máy đếm laser), Định lượng Acid Uric [Máu]",
+37,422,1070,452,"Định lượng Cholesterol toàn phần (máu), Định lượng Glucose [máu], Định lượng HbA Ic [máu], Định",
+35,452,1067,482,"lượng HDL-C (High density lipoprotein Cholesterol) [Máu], Định lượng Triglycerid (máu) [Máu], Đo",
+37,479,1062,514,"hoạt độ ALT (GPT) [Máu], Đo hoạt độ AST (GOT) [Máu], Định lượng Creatinin (máu), Điện giải đồ",
+37,507,877,540,"(Na, K, CI) [Máu], Tổng phân tích nước tiểu (Bằng máy tự động); Điện tim thường",
+37,534,1065,569,Chấn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline;; (I10) Bệnh lý tăng huyết áp; (K21),diagnose
+37,567,565,595,Bệnh trào ngược dạ dày - thực quản; (L50) Mày đay,diagnose
+64,705,517,747,1) MEGLUCON 1000 1000mg,drugname
+887,707,1055,737,SL:34 Viên,quantity
+49,742,235,780,Ghi chú Uống:,
+932,747,1045,775,Tối 1 Viên,usage
+64,784,432,825,2) GOLDDICRON 30mg,drugname
+887,787,1057,820,SL:34 Viên,quantity
+49,820,363,862,Ghi chú Uống trước khi ăn:,
+430,827,560,857,Sáng 1 Viên,usage
+64,860,595,903,"3) HANGITOR PLUS 40mg+12,5mg",drugname
+887,864,1047,897,SL:34 viên,quantity
+49,897,235,935,Ghi chú Uống:,
+430,907,552,935,Sáng 1 viên,usage
+65,942,407,980,4) KAGASDINE 20mg,drugname
+887,942,1057,975,SL:34 Viên,quantity
+49,975,363,1017,Ghi chú Uống trước khi ăn:,
+935,982,1045,1007,Tối 1 Viên,usage
+65,1020,742,1060,5) CHORLATCYN 125mg+50mg+50mg+25mg,drugname
+887,1020,1049,1052,SL: 20 viên,quantity
+49,1056,235,1090,Ghi chú uống:,
+765,1060,897,1085,Chiều 1 viên,usage
+430,1062,552,1092,Sáng 1 viên,usage
+45,1105,289,1132,Cộng khoản: 5 khoản,
+45,1137,489,1167,Lời dặn đơn thuốc: Hẹn KHám 9/2/2022,
+45,1180,247,1207,Ngày hẹn tái khám:,
+722,1232,927,1262,Ngày 05/01/2022,date
+92,1260,292,1287,Bệnh nhân ký nhận,
+737,1270,912,1302,"Y, Bác sĩ điều trị",
+712,1385,917,1412,BS. Bùi Mạnh Hà,
+44,1464,617,1497,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1527,1089,1552,05/01/2022 23:04:53,

@@ -1,0 +1,30 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+702,215,1057,250,Cân nặng kg nam x,
+37,347,1045,394,Chẩn đoán: H61.2 - Nút ráy tai trái; (H60) Viêm tai ngoài; (H81) Rối loạn,diagnose
+37,389,647,432,chức năng tiền đình; (L50.0) Mày đay dị ứng,diagnose
+37,428,243,470,Thuốc điều trị:,
+37,477,512,520,"1) Cefalexin (Firstlexin 500) 0,5g",drugname
+282,544,900,587,Uống: Sáng 2 Viên CHiều 2 Viên Tối 2 Viên,usage
+42,550,197,577,SL: 30 Viên,quantity
+35,602,892,647,"2) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",drugname
+282,674,877,712,Uống: Sáng 3 viên CHiều 3 viên TốI 3 viên,usage
+42,677,190,707,SL: 90 viên,quantity
+37,733,740,777,3) Methyl prednisolon (Methylprednisolon 4) 4mg,drugname
+282,802,552,842,Uống: Sáng 4 Viên,usage
+42,807,199,837,SL: 20 Viên,quantity
+37,862,465,905,4) Loratadin (Sergurop) 10mg,drugname
+282,930,532,970,Uống: TỐI 1 viên,usage
+42,935,190,962,SL: 10 viên,quantity
+37,991,585,1032,5) Paracetamol (Partamol Tab.) 500mg,drugname
+282,1060,750,1097,Uống: Sáng 1 Viên Chiều 1 Viên,usage
+42,1060,195,1092,SL: 10 Viên,quantity
+42,1115,1097,1157,Lời dặn: Uống thuốc theo toa 4 tái khám sau 1 tuần 4 nghỉ dưỡng theo chế độ,
+42,1160,140,1187,BHXH,
+647,1169,1030,1211,Ngày 04 tháng 01 năm 2022,date
+680,1217,1002,1255,Bác sỹ/Y sỹ khám bệnh,
+712,1265,970,1300,"(Ký, ghi rõ họ tên)",
+679,1423,998,1478,BS. Nguyễn Thế Chiến,
+62,1482,507,1517,Khám lại xin mang theo đơn này,
+62,1527,1007,1567,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

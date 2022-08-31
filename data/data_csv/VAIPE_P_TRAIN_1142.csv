@@ -1,0 +1,39 @@
+xmin,ymin,xmax,ymax,Object,label
+28,58,158,76,TYT XÃ ĐỨC LÝ,
+372,91,522,123,Số phiếu 184/2021,
+626,100,688,118,4692003,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+366,207,387,224,35,
+436,207,466,225,207,
+509,207,560,225,51102,
+249,208,262,224,2,
+300,208,322,225,35,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,254,125,274,Cận lâm sàng:,
+28,272,732,294,"Chấn đoán: K29.9 - Viêm dạ dày tá tràng, không đặc hiệu; (120) Viêm phế quản cấp: (G46?) Hội chứng",diagnose
+28,294,347,314,mạch máu não trong bệnh mạch não (160-167t),diagnose
+46,386,366,413,1) AMOXICILIN 500MG 500mg,drugname
+595,387,708,409,SL: 20 Viên,quantity
+34,411,161,436,Ghi chú Uống:,
+45,438,377,466,2) METRONIDAZOL 250 250mg,drugname
+595,439,708,461,SL: 20 Viên,quantity
+34,463,152,488,Ghi chú Uống,
+45,489,371,518,3) BROMHEXIN ACTAVIS 8mg,drugname
+595,491,708,513,SL: 20 Viên,quantity
+34,515,159,540,Ghi chú Uống:,
+46,540,541,570,4) HOẠT HUYẾT DƯỠNG NÃO QN 150mg+20mg,drugname
+595,543,708,565,SL: 20 Viên,quantity
+34,566,160,592,Ghi chú Uống:,
+33,600,197,620,Cộng khoản: 4 khoản,
+33,623,163,642,Lời dặn đơn thuốc:,
+33,650,167,670,Ngày hẹn tái khám:,
+484,682,620,706,Ngày 15/01/2021,date
+65,703,198,722,Bệnh nhân ký nhận,
+494,712,611,732,"Y, Bác sĩ điều trị",
+444,785,650,810,NV. Đặng Thị Thu Huyền,
+33,840,414,863,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+586,882,730,899,05/05/2021 07:36:37,

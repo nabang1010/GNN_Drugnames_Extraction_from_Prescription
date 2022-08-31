@@ -1,0 +1,43 @@
+xmin,ymin,xmax,ymax,Object,label
+26,77,148,97,Khoa Khám bệnh,
+25,106,129,132,PK Số 2 [Nội],
+372,111,543,138,Số phiếu 46680/2021,
+625,119,690,137,4688660,
+259,139,508,173,TOA THUỐC BHYT,
+621,179,654,195,Nam,
+687,179,710,195,Nữ,
+434,224,468,244,206,
+512,226,561,244,73640,
+252,228,323,244,04,
+368,228,388,244,35,
+170,252,308,270,Lần/phút Huyết áp:,
+28,255,73,270,Mạch:,
+452,255,596,272,MMHg Thân nhiệt:,
+26,270,716,292,"Cận lâm sàng: Tổng phân tích nước tiểu (Bằng máy tự động); Siêu âm hệ tiết niệu (thận, tuyến thượng",
+28,295,252,312,"xã thận, bàng quang, tiên liệt tuyên)",
+26,310,732,330,Chần đoán: N20 - Sỏi thận và niệu quản; (N34) Viêm niệu đạo và hội chứng niệu đạo; (J02) Viêm họng,diagnose
+28,332,55,348,cấp,diagnose
+46,423,306,448,1) FABAMOX 500 500mg,drugname
+594,423,707,445,SL: 28 Viên,quantity
+34,446,160,473,Ghi chú Uống:,
+512,450,607,470,Chiều 2 Viên,usage
+288,452,377,470,Sáng 2 Viên,usage
+44,472,377,501,2) METRONIDAZOL 250 250mg,drugname
+594,474,707,497,SL: 28 Viên,quantity
+512,501,607,521,Chiều 2 Viên,usage
+35,501,153,523,Ghi chú Uống,
+288,503,377,523,Sáng 2 Viên,usage
+44,528,321,552,3) DROMASM FORT 80mg,drugname
+594,528,707,550,SL: 14 Viên,quantity
+35,552,153,577,Ghi chú Uống,
+512,554,607,574,Chiều 1 Viên,usage
+288,556,377,576,Sáng 1 Viên,usage
+33,583,197,603,Cộng khoản: 3 khoản,
+33,607,164,627,Lời dặn đơn thuốc:,
+33,634,168,654,Ngày hẹn tái khám:,
+483,670,621,690,Ngày 11/10/2021,date
+64,687,199,707,Bệnh nhân ký nhận,
+497,698,612,716,"Y, Bác sĩ điều trị",
+472,769,619,792,BS. Trần Mạnh Hà,
+33,825,414,847,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+585,865,732,885,01/01/2022 15:14:19,

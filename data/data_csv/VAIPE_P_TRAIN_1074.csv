@@ -1,0 +1,31 @@
+xmin,ymin,xmax,ymax,Object,label
+57,46,115,77,1/1,
+25,106,129,132,PK Số 2 [Nội],
+372,111,546,138,Số phiếu 35586/2019,
+625,117,690,137,4668824,
+259,139,508,173,TOA THUỐC BHYT,
+621,179,710,195,Nam x nữ,
+434,226,468,244,207,
+512,226,559,244,56211,
+366,228,388,244,35,
+170,252,308,270,Lần/phút Huyết áp:,
+28,255,73,270,Mạch:,
+452,255,596,272,MMHg Thân nhiệt:,
+26,272,734,295,"Cận lâm sàng: Định lượng Cholesterol toàn phần (máu), Định lượng Glucose (Máu), Định lượng HDL-C",
+26,292,736,312,"(High density lipoprotein Cholesterol) (Máu), Định lượng Triglycerid (máu) (Máu), Tổng phân tích nước",
+28,311,199,334,tiểu (bằng máy tự động);,
+28,329,707,354,Chấn đoán: 110 - Tăng huyết áp vô căn (nguyên phát) (E78) Rối loạn chuyển hoá lipoprotein và tình,diagnose
+26,350,587,370,trạng tăng lipid máu khác; (E1i) TD Bệnh đái tháo đường không phụ thuộc insulin,diagnose
+46,443,348,470,1) TROYSAR AM 5mg +50mg,drugname
+594,443,707,465,SL: 31 Viên,quantity
+35,468,162,493,Ghi chú Uống:,
+288,472,377,492,Sáng 1 Viên,usage
+35,503,197,521,Cộng khoản: 1 khoản,
+33,523,164,543,Lời dặn đơn thuốc:,
+33,550,315,570,"Ngày hẹn tái khám: Thứ hai, 08/07/2019",
+483,585,621,605,Ngày 07/06/2019,date
+64,603,199,625,Bệnh nhân ký nhận,
+497,614,612,632,"Y, Bác sĩ điều trị",
+472,683,619,709,BS. Trần Mạnh Hà,
+33,740,415,765,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+585,781,732,800,05/01/2022 00:27:48,

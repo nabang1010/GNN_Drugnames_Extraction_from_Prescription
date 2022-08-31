@@ -1,0 +1,25 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+1012,212,1057,240,Nữ,
+702,215,962,250,Cân nặng kg nam,
+37,349,1065,393,Chẩn đoán: S42 - Gãy xương vai và xương cánh tay T cũ TD; (120) Cơn đau,diagnose
+34,389,1100,432,thắt ngực T; (LO3) Viêm mô bào; (G46?) Hội chứng mạch máu não trong bệnh,diagnose
+37,432,317,464,mạch não (160-1677),diagnose
+37,468,242,510,Thuốc điều trị:,
+37,515,512,560,"1) Cefalexin (Firstlexin 500) 0,5g",drugname
+282,585,714,622,Uống: Sáng 2 Viên Tối 2 Viên,usage
+42,590,197,617,SL: 20 Viên,quantity
+35,647,582,682,2) Paracetamol (Partamol Tab.) 500mg,drugname
+282,712,717,752,Uống: Sáng 2 Viên TốI 2 Viên,usage
+42,717,197,745,SL: 20 Viên,quantity
+37,770,892,815,"3) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",drugname
+282,839,702,883,Uống: Sáng 2 viên Tối 2 viên,usage
+42,844,189,874,SL: 40 viên,quantity
+42,910,157,940,Lời dặn:,
+647,952,1027,992,Ngày 22 tháng 12 năm 2021,date
+677,999,1002,1039,Bác sỹ/Y sỹ khám bệnh,
+711,1041,970,1084,"(Ký, ghi rõ họ tên)",
+682,1190,997,1222,BSCKI. Lưu Minh Tân,
+62,1235,510,1270,Khám lại xin mang theo đơn này,
+62,1278,1007,1324,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

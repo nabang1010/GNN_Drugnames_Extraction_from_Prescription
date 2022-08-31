@@ -1,0 +1,38 @@
+xmin,ymin,xmax,ymax,Object,label
+58,28,113,58,1/1,
+26,89,147,113,PK SỐ 6 [YHCT],
+372,91,547,123,Số phiếu 23055/2018,
+626,100,688,118,4761209,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+185,207,214,225,HT,
+300,207,322,225,35,
+366,207,387,224,35,
+436,207,468,225,206,
+509,207,560,225,89515,
+249,208,262,224,3,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,307,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,251,448,277,Cận lâm sàng: Chụp Xquang cột sống thắt lưng thẳng nghiêng,
+28,271,628,295,Chấn đoán: M47 - Hư cột sống (thoải hoá cột sống); (G54) Bệnh rễ thần kinh và đám rối,diagnose
+46,386,249,413,1) MEZAFEN 60mg,drugname
+595,387,708,409,SL: 20 Viên,quantity
+34,411,161,436,Ghi chú Uống:,
+514,414,605,433,Chiều 2 Viên,usage
+289,416,376,436,Sáng 2 Viên,usage
+45,439,419,466,2) SETBLOOD 115mg+100mg+50mcg,drugname
+595,439,708,461,SL: 10 Viên,quantity
+34,463,161,488,Ghi chú Uống:,
+513,466,605,484,Chiều 1 Viên,usage
+289,468,376,488,Sáng 1 Viên,usage
+33,496,197,514,Cộng khoản: 2 khoản,
+33,519,163,538,Lời dặn đơn thuốc:,
+33,546,167,565,Ngày hẹn tái khám:,
+484,581,621,600,Ngày 17/04/2018,date
+65,600,198,618,Bệnh nhân ký nhận,
+494,605,612,627,"Y, Bác sĩ điều trị",
+466,680,628,705,BS. Nguyễn Thị Ngà,
+33,737,414,758,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+588,777,728,794,16/05/2021 16:28:51,

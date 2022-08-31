@@ -1,0 +1,45 @@
+xmin,ymin,xmax,ymax,Object,label
+58,28,113,58,1/1,
+26,89,130,113,PK SỐ 3 [NHI],
+372,91,545,123,Số phiếu 19026/2021,
+626,100,688,118,4833737,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+300,207,322,225,35,
+366,207,387,224,35,
+436,207,468,225,206,
+511,207,560,225,66042,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,255,717,274,"Cận lâm sàng: Đo hoạt độ ALT (GPT) (Máu), Đo hoạt độ AST (GOT) (Máu), Định lượng Cholesterol",
+26,275,710,294,"Trong toàn phần (máu), Định lượng Creatinin (máu), Định lượng Glucose (Máu), Định lượng HDL-C (High tháng 19",
+28,292,722,315,"density lipoprotein Cholesterol) (Máu), Định lượng Triglycerid (máu) (Máu), Tổng phân tích nước tiều",
+28,312,280,332,(Bằng máy tự động); Siêu âm ổ bụng,
+28,330,708,352,Chần đoán: E78 - Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác; (Ell) Bệnh đái,diagnose
+26,351,723,371,tháo đường không phụ thuộc insuline; (K76) Bệnh gan khác; (R60.9) Phủ không đặc hiệu; (R10.4) Đau,diagnose
+28,371,628,391,bụng không xác định và đau bụng khác; (H66) Viêm tai giữa nung mủ và không đặc hiệu,diagnose
+46,443,349,471,"1) CEFADROXIL 500MG 0,5g",drugname
+595,444,708,468,SL: 28 Viên,quantity
+34,468,161,493,Ghi chú Uống:,
+514,471,605,489,Chiều 2 Viên,usage
+289,473,376,493,Sáng 2 Viên,usage
+45,496,334,523,2) PARTAMOL TAB. 500mg,drugname
+595,498,708,519,SL: 20 Viên,quantity
+34,520,152,545,Ghi chú Uống,
+513,523,605,541,Chiều 2 Viên,usage
+289,524,376,545,Sáng 2 Viên,usage
+45,548,317,575,3) VIPREDNI 16MG 16mg,drugname
+595,550,708,571,SL: 10 Viên,quantity
+34,572,161,599,Ghi chú Uống:,
+289,578,376,598,Sáng 2 Viên,usage
+33,606,197,625,Cộng khoản: 3 khoản,
+33,628,163,648,Lời dặn đơn thuốc:,
+33,657,167,675,Ngày hẹn tái khám:,
+484,689,620,710,Ngày 01/04/2021,date
+65,708,198,728,Bệnh nhân ký nhận,
+494,717,611,737,"Y, Bác sĩ điều trị",
+457,787,637,814,BSCKI. Hà Đức Thắng,
+33,845,414,869,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+586,887,730,904,05/05/2021 08:24:00,

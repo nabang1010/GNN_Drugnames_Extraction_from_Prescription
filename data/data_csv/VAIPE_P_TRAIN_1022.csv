@@ -1,0 +1,37 @@
+xmin,ymin,xmax,ymax,Object,label
+28,58,208,76,TYT XÃ NHÂN KHANG,
+372,91,525,123,Số phiếu 286/2018,
+626,100,688,118,4685955,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+300,207,322,225,35,
+366,207,387,224,35,
+436,207,468,225,206,
+509,207,558,225,83581,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,254,125,274,Cận lâm sàng:,
+28,272,389,294,Chẩn đoán: 110 - Tăng huyết áp vô căn (nguyên phát),diagnose
+46,386,267,413,1) CARDILOPIN 5mg,drugname
+595,387,708,409,SL: 56 Viên,quantity
+34,411,161,436,Ghi chú Uống:,
+289,416,376,436,Sáng 2 Viên,usage
+45,435,513,466,2) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg,drugname
+595,439,708,461,SL: 20 Viên,quantity
+34,463,161,488,Ghi chú Uống:,
+289,468,376,488,Sáng 2 Viên,usage
+45,491,454,519,3) COSYNDO B 175mg+175mg+125mcg,drugname
+595,491,708,513,SL: 10 Viên,quantity
+34,515,161,540,Ghi chú Uống:,
+289,519,376,540,Sáng 1 Viên,usage
+33,548,197,568,Cộng khoản: 3 khoản,
+33,571,163,590,Lời dặn đơn thuốc:,
+33,598,167,616,Ngày hẹn tái khám:,
+484,633,621,652,Ngày 26/01/2018,date
+65,652,198,670,Bệnh nhân ký nhận,
+494,658,611,678,"Y, Bác sĩ điều trị",
+462,728,632,762,BS. Nguyễn Phúc Hải,
+33,788,416,811,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+586,829,730,845,04/05/2021 19:30:20,

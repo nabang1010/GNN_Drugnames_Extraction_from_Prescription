@@ -1,0 +1,41 @@
+xmin,ymin,xmax,ymax,Object,label
+37,102,217,129,Khoa Khám bệnh,
+37,146,188,180,Bốc khám nội,
+554,151,780,193,Số phiếu 219/2022,
+935,162,1025,190,4706971,
+387,195,757,242,TOA THUỐC BHYT,
+925,252,977,277,Nam,
+1022,255,1057,277,Nữ,
+762,322,835,350,03490,
+370,325,387,347,2,
+447,325,480,350,35,
+545,325,577,350,35,
+650,325,695,350,206,
+247,360,455,390,lần/phút Huyết áp:,
+674,360,950,393,mmHg Thân nhiệt: 36.5,
+37,365,105,390,Mạch:,
+132,365,160,387,80,
+500,367,612,387,160,
+37,392,1079,424,"Cận lâm sảng: Tổng phân tích tế bào máu ngoại vi (bằng máy đếm laser), Định lượng Acid Uric [Máu]",
+37,422,1089,452,"Định lượng Cholesterol toàn phần (máu), Định lượng Glucose (Máu), Định lượng HDL-C (High density",
+37,452,1087,482,"lipoprotein Cholesterol) [Máu], Định lượng Triglycerid (máu) [Máu], Định lượng Creatinin (máu), Điện",
+37,479,952,513,"giải đồ (Na, K, CI) [Máu], Tổng phân tích nước tiểu (Bằng máy tự động); Điện tim thường",
+37,507,1080,540,Chấn đoán: II0 - Bệnh lý tăng huyết áp; (E78) Rối loạn chuyến hóa lipoprotein và tỉnh trạng tăng lipid,diagnose
+37,540,137,562,máu khác,diagnose
+65,680,597,717,"1) HANGITOR PLUS 40mg+12,5mg",drugname
+887,680,1050,712,SL: 30 viên,quantity
+49,716,235,750,Ghi chú uống:,
+430,722,552,750,Sáng 1 viên,usage
+64,755,427,797,2) ATORIS 20MG 20mg,drugname
+887,757,1055,787,SL: 15 Viên,quantity
+49,792,235,830,Ghi chú Uống:,
+932,797,1065,825,Tối 1/2 Viên,usage
+45,842,290,870,Cộng khoản: 2 khoản,
+45,877,537,905,Lời dặn đơn thuốc: Hẹn Tái KHám 7/2/2021,
+45,917,247,945,Ngày hẹn tái khám:,
+722,970,927,1000,Ngày 04/01/2022,date
+92,997,292,1025,Bệnh nhân ký nhận,
+737,1007,913,1040,"Y, Bác sĩ điều trị",
+679,1117,950,1155,BS. Đào Thị Bích Thủy,
+44,1202,617,1236,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1265,1089,1290,04/01/2022 21:59:42,

@@ -1,0 +1,51 @@
+xmin,ymin,xmax,ymax,Object,label
+37,102,217,129,Khoa Khám bệnh,
+36,146,283,183,Bốc khám Tiểu đường 1,
+554,151,813,193,Số phiếu 35119/2021,
+935,165,1027,190,4690479,
+387,195,757,242,TOA THUỐC BHYT,
+925,252,977,275,Nam,
+1022,252,1057,277,Nữ,
+762,322,835,350,08018,
+370,325,387,350,3,
+447,325,480,350,35,
+545,325,577,350,35,
+650,325,695,350,206,
+247,360,455,390,lần/phút Huyết áp:,
+674,361,887,393,mmHg Thân nhiệt:,
+37,365,105,390,Mạch:,
+500,367,612,387,120,
+37,392,1030,425,"Cận lâm sảng: Định lượng Acid Uric [Máu], Định lượng Cholesterol toàn phần (máu), Định lượng",
+37,425,1065,452,"Glucose [Máu], Định lượng HbAIc [máu], Định lượng HDL-C (High density lipoprotein Cholesterol)",
+37,452,1057,482,"[Máu], Định lượng Triglycerid (máu) [Máu], Đo hoạt độ ALT (GPT) [Máu], Đo hoạt độ AST (GOT)",
+37,475,1055,513,"[Máu], Định lượng Creatinin (máu), Điện giải đồ (Na, K, CI) (Máu], Tổng phân tích nước tiểu (Bằng",
+37,505,949,540,"máy tự động), Tổng phân tích tế bào máu ngoại vi (bằng máy đếm laser); Điện tim thường",
+37,534,1105,569,Chấn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline; (110) Bệnh lý tăng huyết áp; (E78) Rối,diagnose
+35,567,659,595,loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác,diagnose
+64,705,495,745,1) PYME DIAPRO MR 30mg,drugname
+887,707,1057,740,SL: 60 Viên,quantity
+49,744,363,783,Ghi chú Uống trước khi ăn:,
+430,750,560,780,Sáng 1 Viên,usage
+64,784,380,825,2) ENALAPRIL 5mg,drugname
+887,787,1072,817,SL: 120 Viên,quantity
+49,820,225,858,Ghi chú Uống,
+767,825,905,852,Chiều 1 Viên,usage
+430,827,560,857,Sáng 1 Viên,usage
+64,862,402,902,3) KAVASDIN 5 5mg,drugname
+887,865,1072,897,SL: 120 Viên,quantity
+49,900,223,935,Ghi chú Uống,
+767,902,905,930,Chiều 1 Viên,usage
+430,907,560,935,Sáng 1 Viên,usage
+64,939,392,980,4) INBACID 10 10mg,drugname
+887,942,1055,972,SL: 60 Viên,quantity
+49,977,235,1013,Ghi chú Uống:,
+932,982,1045,1007,Tối 1 Viên,usage
+45,1027,290,1055,Cộng khoản: 4 khoản,
+45,1060,502,1090,Lời dặn đơn thuốc: Hẹn KHám 16/9/2021,
+45,1102,247,1130,Ngày hẹn tái khám:,
+722,1155,925,1185,Ngày 16/07/2021,date
+92,1182,292,1210,Bệnh nhân ký nhận,
+737,1190,912,1222,"Y, Bác sĩ điều trị",
+712,1307,917,1335,BS. Bùi Mạnh Hà,
+44,1384,617,1421,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1449,1087,1472,05/01/2022 23:20:01,

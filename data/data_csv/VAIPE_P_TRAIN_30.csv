@@ -1,0 +1,42 @@
+xmin,ymin,xmax,ymax,Object,label
+58,28,113,58,1/1,
+26,89,127,113,PK Số 2 [Nội],
+372,92,547,121,Số phiếu 71085/2018,
+626,101,688,118,4822806,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+300,207,322,225,35,
+366,207,387,224,35,
+436,207,466,225,207,
+511,207,560,225,64485,
+249,208,262,224,2,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,307,252,lần/phút Huyết áp:,
+28,235,73,250,Mạch:,
+28,254,733,275,"Cận lâm sảng: Định lượng Cholesterol toàn phần (máu), Định lượng Glucose (Máu), Định lượng HDL-Châu Trong",
+26,275,735,294,"(High density lipoprotein Cholesterol) (Máu), Định lượng Triglycerid (máu) (Máu), Tổng phân tích nước",
+26,292,316,316,tiểu (Bằng máy tự động); Điện tim thường,
+28,312,728,334,Chấn đoán: 110 - Tăng huyết áp vô căn (nguyên phát); (E11) TD Bệnh đái tháo đường không phụ thuộc,diagnose
+26,330,568,353,insulin; (E78) Rối loạn chuyển hoá lipoprotein và tình trạng tăng lipid máu khác,diagnose
+46,424,361,454,"1) EBITAC 12.5 10mg + 12,5mg",drugname
+595,426,708,449,SL: 10 Viên,quantity
+34,449,161,475,Ghi chú Uống:,
+288,453,376,475,Sáng 1 Viên,usage
+45,478,299,505,2) LENINARTO 10 10mg,drugname
+595,478,708,501,SL: 10 Viên,quantity
+34,501,159,527,Ghi chú Uống:,
+625,504,700,523,Tối 1 Viên,usage
+45,529,351,556,3) STACETAM 800MG 800mg,drugname
+595,531,708,553,SL: 10 Viên,quantity
+34,553,152,578,Ghi chú Uống,
+288,557,376,579,Sáng 1 Viên,usage
+33,586,197,606,Cộng khoản: 3 khoản,
+33,610,163,628,Lời dặn đơn thuốc:,
+33,636,317,657,"Ngày hẹn tái khám: Thứ sáu, 23/11/2018",
+484,673,621,692,Ngày 13/11/2018,date
+65,690,198,708,Bệnh nhân ký nhận,
+494,697,612,719,"Y, Bác sĩ điều trị",
+474,771,618,795,BS. Trần Mạnh Hà,
+33,827,414,850,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+586,869,732,886,03/05/2021 18:18:46,

@@ -1,0 +1,38 @@
+xmin,ymin,xmax,ymax,Object,label
+58,28,113,58,1/1,
+26,89,142,113,PK Số 1 [Ngoại],
+372,92,547,122,Số phiếu 48158/2018,
+626,100,688,118,4656834,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+300,207,322,225,35,
+366,207,387,224,35,
+436,207,468,225,208,
+511,207,560,225,13814,
+249,208,262,224,2,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,307,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,255,732,275,"Cận lâm sảng: Đo hoạt độ ALT (GPT) (Máu), Đo hoạt độ AST (GOT) (Máu), Định lượng Bilirubin toàn",
+26,272,224,294,phần [máu]; siêu âm ổ bụng,
+28,290,508,314,Chẩn đoán: K76 - Bệnh gan khác; (N41) Các bệnh viêm tuyến tiền liệt,diagnose
+46,406,479,433,1) CHORLATCYN 125mg;50mg;50mg;25mg,drugname
+595,406,708,428,SL: 10 Viên,quantity
+34,429,160,453,Ghi chú Uống:,
+513,431,606,451,Chiều 1 Viên,usage
+289,434,376,453,Sáng 1 Viên,usage
+44,456,321,483,2) VINA-AD 2000ui+ 400ui,drugname
+595,458,708,479,SL: 10 Viên,quantity
+34,480,161,507,Ghi chú Uống:,
+513,484,605,503,Chiều 1 Viên,usage
+289,486,376,506,Sáng 1 Viên,usage
+33,514,197,533,Cộng khoản: 2 khoản,
+33,536,163,556,Lời dặn đơn thuốc:,
+33,565,167,585,Ngày hẹn tái khám:,
+484,600,621,620,Ngày 09/08/2018,date
+65,618,198,636,Bệnh nhân kỳ nhận,
+494,626,611,645,"Y, Bác sĩ điều trị",
+456,697,640,726,BS. Nguyễn Công Sáng,
+33,755,416,777,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+588,795,730,812,14/05/2021 15:36:30,

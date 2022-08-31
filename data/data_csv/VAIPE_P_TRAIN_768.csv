@@ -1,0 +1,27 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+702,215,1057,250,Cân nặng kg nam x,
+37,346,1045,392,Chẩn đoán: K12.2 - Viêm mô tế bào và áp xe của miệng; (M25.4)TD Tràn,diagnose
+37,386,1090,433,"dịch khớp gối phải; (L23.9) Viêm da dị ứng tiếp xúc, nguyên nhân không đặc",diagnose
+37,429,1007,472,hiệu; (G46?) Hội chứng mạch máu não trong bệnh mạch não (160-167t),diagnose
+37,468,242,510,Thuốc điều trị:,
+37,515,512,560,"1) Cefalexin (Firstlexin 500) 0,5g",drugname
+282,585,749,622,Uống: Sáng 2 Viên CHIều 2 Viên,usage
+42,590,195,617,SL: 20 Viên,quantity
+35,647,582,682,2) Paracetamol (Partamol Tab.) 500mg,drugname
+282,712,752,755,Uống: Sáng 1 Viên CHiều 1 Viên,usage
+42,717,197,745,SL: 10 Viên,quantity
+37,772,740,815,3) Methyl prednisolon (Methylprednisolon 4) 4mg,drugname
+282,842,552,882,Uống: Sáng 4 Viên,usage
+42,845,200,877,SL: 20 Viên,quantity
+37,897,892,942,"4) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",drugname
+282,970,879,1010,Uống: Sáng 2 viên CHIều 2 viên Tối 2 viên,usage
+42,975,190,1002,SL: 30 viên,quantity
+42,1037,157,1070,Lời dặn:,
+647,1082,1027,1120,Ngày 31 tháng 12 năm 2021,date
+680,1130,1002,1165,Bác sỹ/Y sỹ khám bệnh,
+712,1175,970,1212,"(Ký, ghi rõ họ tên)",
+662,1315,1017,1357,BSCKI. Nguyễn Ngọc Tri,
+62,1365,507,1397,Khám lại xin mang theo đơn này,
+62,1409,1007,1452,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

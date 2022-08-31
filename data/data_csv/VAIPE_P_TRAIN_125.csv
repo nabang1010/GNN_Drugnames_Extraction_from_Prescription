@@ -1,0 +1,37 @@
+xmin,ymin,xmax,ymax,Object,label
+58,28,113,58,1/1,
+26,89,137,112,PK Số 5.1 [TĐ],
+372,91,545,123,Số phiếu 19411/2021,
+626,100,688,118,4669683,
+260,122,508,152,TOA THUỐC BHYT,
+618,160,655,177,Nam,
+685,160,708,177,Nữ,
+366,207,387,224,35,
+436,207,466,225,207,
+509,207,560,225,35077,
+249,208,262,224,2,
+300,208,322,225,35,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,307,252,lần/phút Huyết áp:,
+28,235,73,250,Mạch:,
+28,252,737,274,"Cận lâm sảng: Định lượng Acid Uric (Máu), Định lượng Glucose (Máu), Tổng phân tích nước tiểu (Bằng thủ thị thị trị",
+28,274,125,294,máy tự động);,
+28,290,708,314,Chấn đoán: E78 - Rối loạn chuyển hóa lipoprotein và tình trạng tăng lipid máu khác; (Ell) Bệnh đái,diagnose
+26,310,459,332,tháo đường không phụ thuộc insuline; (M1?) Gút (thống phong),diagnose
+46,404,249,433,1) MILURIT 300mg,drugname
+595,406,708,428,SL: 10 Viên,quantity
+34,429,232,455,Ghi chú Uống sau khi ăn:,
+289,434,376,453,Sáng 1 Viên,usage
+44,457,277,484,2) GOUTCOLCIN 1mg,drugname
+595,458,697,479,SL: 5 Viên,quantity
+34,482,232,508,Ghi chú Uống sau khi ăn:,
+289,486,376,506,Sáng 1 Viên,usage
+33,514,197,533,Cộng khoản: 2 khoản,
+33,536,163,556,Lời dặn đơn thuốc:,
+33,565,167,585,Ngày hẹn tái khám:,
+484,600,620,620,Ngày 02/04/2021,date
+65,618,198,636,Bệnh nhân kỳ nhận,
+494,626,611,645,"Y, Bác sĩ điều trị",
+474,699,618,721,BS. Trần Mạnh Hà,
+33,753,414,778,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+588,795,730,812,16/05/2021 16:42:16,

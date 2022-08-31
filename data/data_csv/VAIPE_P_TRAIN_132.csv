@@ -1,0 +1,35 @@
+xmin,ymin,xmax,ymax,Object,label
+26,75,193,95,TYT XÃ NGUYÊN LÝ,
+372,111,512,138,Số phiếu 26/2020,
+625,117,690,137,4658398,
+259,139,508,173,TOA THUỐC BHYT,
+621,179,654,195,Nam,
+687,179,710,195,Nữ,
+512,226,561,244,65403,
+301,228,323,244,35,
+368,228,388,244,35,
+437,228,468,244,207,
+170,252,306,270,lần/phút Huyết áp:,
+28,255,73,270,Mạch:,
+452,255,596,272,MMHg Thân nhiệt:,
+28,272,508,292,Cận lâm sàng: Xét nghiệm đường máu mao mạch tại giường (một lần);,
+26,288,714,312,Chấn đoán: E11 - Bệnh đái tháo đường không phụ thuộc insulin; (110) Tăng huyết áp vô căn (nguyên,diagnose
+28,315,66,332,phát),diagnose
+46,401,326,430,1) GLUCOFAST 500 500mg,drugname
+594,403,707,426,SL: 60 Viên,quantity
+37,430,160,455,Ghi chú Uống:,
+287,431,377,456,Sáng 1 Viên,usage
+512,432,607,450,Chiều 1 Viên,usage
+44,454,270,483,2) KAVASDIN 5 5mg,drugname
+594,457,703,479,SL: 30 viên,quantity
+37,483,153,506,Ghi chú Uống,
+288,485,372,505,Sáng 1 viên,usage
+32,511,197,535,Cộng khoản: 2 khoản,
+33,536,164,556,Lời dặn đơn thuốc:,
+33,563,168,583,Ngày hẹn tái khám:,
+485,601,623,619,Ngày 03/01/2020,date
+64,616,199,636,Bệnh nhân ký nhận,
+497,627,612,645,"Y, Bác sĩ điều trị",
+443,698,650,723,NHS. Nguyễn Thị Nguyên,
+33,754,414,776,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+585,794,732,814,25/12/2021 23:55:07,

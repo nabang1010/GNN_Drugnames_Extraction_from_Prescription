@@ -1,0 +1,34 @@
+xmin,ymin,xmax,ymax,Object,label
+26,75,250,95,TRẠM Y TẾ XÃ BÌNH NGHĨA,
+372,111,532,138,Số phiếu 3125/2021,
+625,117,687,137,4666971,
+259,139,508,173,TOA THUỐC BHYT,
+621,179,654,195,Nam,
+687,179,710,195,Nữ,
+434,224,468,244,209,
+508,224,561,244,20116,
+368,228,388,244,35,
+170,252,308,270,Lần/phút Huyết áp:,
+28,255,75,270,Mạch:,
+452,255,596,272,MMHg Thân nhiệt:,
+28,273,126,293,Cận lâm sàng:,
+26,290,252,312,Chẩn đoán: J02 - Viêm họng cấp,diagnose
+46,401,364,430,"1) HAPENXIN CAPSULES 0,5g",drugname
+594,403,707,426,SL: 20 Viên,quantity
+34,428,162,455,Ghi chú Uống:,
+625,432,701,452,Tối 2 Viên,usage
+288,434,377,452,Sáng 2 Viên,usage
+44,454,333,483,2) PARTAMOL TAB. 500mg,drugname
+594,457,707,479,SL: 10 Viên,quantity
+288,485,377,505,Sáng 1 Viên,usage
+627,485,701,503,Tối 1 Viên,usage
+37,486,153,506,Ghi chú Uống,
+32,511,197,535,Cộng khoản: 2 khoản,
+33,536,164,556,Lời dặn đơn thuốc:,
+33,563,168,583,Ngày hẹn tái khám:,
+485,601,621,619,Ngày 23/08/2021,date
+64,616,199,636,Bệnh nhân ký nhận,
+497,627,612,645,"Y, Bác sĩ điều trị",
+474,698,616,721,BS. Trần Thị Tính,
+33,754,414,776,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+585,794,732,814,23/12/2021 23:34:50,

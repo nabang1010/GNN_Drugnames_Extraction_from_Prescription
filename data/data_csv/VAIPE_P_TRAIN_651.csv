@@ -1,0 +1,23 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+702,215,962,250,Cân nặng kg nam,
+1012,215,1057,240,Nữ,
+37,347,835,393,Chẩn đoán: J42 - Viêm phế quản mãn tính không phân loại,diagnose
+37,398,242,440,Thuốc điều trị:,
+37,446,512,490,"1) Cefalexin (Firstlexin 500) 0,5g",drugname
+282,515,749,552,Uống: Sáng 2 Viên CHIều 2 Viên,usage
+42,520,195,547,SL: 20 Viên,quantity
+34,575,530,617,2) Carbocistein (Anpemux) 250mg,drugname
+282,642,750,683,Uống: Sáng 2 Viên CHiều 2 Viên,usage
+42,647,197,675,SL: 20 Viên,quantity
+37,705,585,742,3) Paracetamol (Partamol Tab.) 500mg,drugname
+282,772,752,812,Uống: Sáng 2 Viên CHIều 2 Viên,usage
+42,775,195,805,SL: 20 Viên,quantity
+42,840,157,870,Lời dặn:,
+647,882,1027,920,Ngày 27 tháng 12 năm 2021,date
+679,929,1002,969,Bác sỹ/Y sỹ khám bệnh,
+712,975,969,1012,"(Ký, ghi rõ họ tên)",
+661,1110,1018,1164,BSCKI. Nguyễn Văn Thự,
+62,1165,507,1200,Khám lại xin mang theo đơn này,
+62,1212,1007,1252,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

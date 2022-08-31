@@ -1,0 +1,39 @@
+xmin,ymin,xmax,ymax,Object,label
+26,60,148,78,Khoa Khám bệnh,
+26,89,130,113,PK SỐ 3 [NHI],
+372,91,545,123,Số phiếu 19767/2021,
+626,100,688,118,4660962,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+300,207,322,225,35,
+366,207,387,224,35,
+436,207,466,225,207,
+511,207,560,225,80574,
+451,231,595,255,mmHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,255,329,274,Cận lâm sàng: Định lượng Acid Uric [máu];,
+28,269,281,295,Chấn đoán: M10 - Gút (thống phong),diagnose
+46,386,247,413,1) MILURIT 300mg,drugname
+595,387,708,409,SL: 10 Viên,quantity
+34,411,161,436,Ghi chú Uống:,
+289,416,376,436,Sáng 1 Viên,usage
+44,438,277,466,2) GOUTCOLCIN 1mg,drugname
+595,439,708,461,SL: 10 Viên,quantity
+34,463,161,488,Ghi chú Uống:,
+289,468,376,488,Sáng 1 Viên,usage
+45,489,334,518,3) PARTAMOL TAB. 500mg,drugname
+595,491,708,513,SL: 20 Viên,quantity
+34,515,161,540,Ghi chú Uống:,
+513,518,605,536,Chiều 2 Viên,usage
+289,519,376,540,Sáng 2 Viên,usage
+33,548,197,568,Cộng khoản: 3 khoản,
+33,571,163,590,Lời dặn đơn thuốc:,
+33,598,167,616,Ngày hẹn tái khám:,
+484,633,620,652,Ngày 05/04/2021,date
+65,652,198,670,Bệnh nhân ký nhận,
+494,658,611,678,"Y, Bác sĩ điều trị",
+457,729,637,757,BSCKI. Hà Đức Thắng,
+33,788,416,811,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+586,829,730,845,23/05/2021 08:55:15,

@@ -1,0 +1,48 @@
+xmin,ymin,xmax,ymax,Object,label
+26,60,148,78,Khoa Khám bệnh,
+26,89,177,113,PK Số 12 [Ngoài giờ],
+372,91,547,122,Số phiếu 16112/2018,
+626,100,688,118,4734945,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+187,207,214,225,HT,
+300,207,322,225,35,
+366,207,387,224,35,
+436,207,468,225,206,
+511,207,560,225,71282,
+249,208,262,224,2,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,254,125,274,Cận lâm sàng:,
+28,272,456,294,Chẩn đoán: J02 - Viêm họng cấp; (L20) Viêm da cơ địa dị ứng,diagnose
+46,387,274,412,"1) CEFADROXIL 0,5g",drugname
+595,387,708,409,SL: 20 Viên,quantity
+34,411,161,436,Ghi chú Uống:,
+514,414,605,433,Chiều 2 Viên,usage
+289,416,376,436,Sáng 2 Viên,usage
+44,438,291,466,2) MYPARA 500 500mg,drugname
+595,439,708,461,SL: 20 Viên,quantity
+34,463,161,488,Ghi chú Uống:,
+514,466,606,484,Chiều 2 Viên,usage
+289,468,376,488,Sáng 2 Viên,usage
+45,489,357,518,3) VACO LORATADINE 10mg,drugname
+595,491,708,513,SL: 10 Viên,quantity
+34,515,160,540,Ghi chú Uống:,
+514,518,605,536,Chiều 1 Viên,usage
+289,519,376,540,Sáng 1 Viên,usage
+594,542,709,566,SL: 10 Viên,quantity
+46,545,419,570,4) SETBLOOD 115mg+100mg+50mcg,drugname
+34,566,160,592,Ghi chú Uống:,
+513,570,606,588,Chiều 1 Viên,usage
+289,571,376,591,Sáng 1 Viên,usage
+33,600,197,620,Cộng khoản: 4 khoản,
+33,623,163,642,Lời dặn đơn thuốc:,
+33,650,167,670,Ngày hẹn tái khám:,
+484,684,622,705,Ngày 20/03/2018,date
+65,703,198,722,Bệnh nhân ký nhận,
+494,712,611,732,"Y, Bác sĩ điều trị",
+467,781,625,809,BS. Đào Tiến Trung,
+33,840,414,863,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+588,882,730,899,10/05/2021 09:14:47,

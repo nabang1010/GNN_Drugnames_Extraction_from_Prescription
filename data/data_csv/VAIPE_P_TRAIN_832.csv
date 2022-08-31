@@ -1,0 +1,25 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+1012,212,1057,240,Nữ,
+702,215,962,250,Cân nặng kg nam,
+37,350,1037,392,Chẩn đoán: 110 - Bệnh lý tăng huyết áp Độ 2; (E78) Rối loạn chuyển hóa,diagnose
+35,392,1052,430,lipoprotein và tình trạng tăng lipid máu khác; (G46?) Hội chứng mạch máu,diagnose
+37,432,527,467,não trong bệnh mạch não (I60-167t),diagnose
+37,468,242,510,Thuốc điều trị:,
+37,515,950,560,"1) Telmisartan % hydroclorothiazid (Hangitor plus) 40mg+12,5mg",drugname
+282,585,735,622,Uống: Sáng 1 viên CHiều 1 viên,usage
+42,590,190,617,SL: 60 viên,quantity
+34,641,892,687,"2) Đinh lăng, bạch quả (Hoạt huyết dưỡng não) 150mg+20mg",drugname
+282,712,737,755,Uống: Sáng 2 viên CHIều 2 viên,usage
+42,717,190,745,SL: 40 viên,quantity
+37,772,545,815,3) Atorvastatin (Atoris 20mg) 20mg,drugname
+282,842,565,880,Uống: TốI 1/2 Viên,usage
+42,845,197,875,SL: 15 Viên,quantity
+42,900,557,943,Lời dặn: HEN Tái KHám 21/1/2022,
+647,950,1027,994,Ngày 21 tháng 12 năm 2021,date
+677,999,1002,1039,Bác sỹ/Y sỹ khám bệnh,
+711,1041,970,1084,"(Ký, ghi rõ họ tên)",
+662,1185,1017,1227,BSCKI. Nguyễn Văn Thự,
+62,1235,510,1270,Khám lại xin mang theo đơn này,
+62,1278,1007,1324,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

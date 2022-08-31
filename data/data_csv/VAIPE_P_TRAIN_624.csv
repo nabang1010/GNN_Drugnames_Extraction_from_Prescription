@@ -1,0 +1,41 @@
+xmin,ymin,xmax,ymax,Object,label
+58,28,113,58,1/1,
+26,89,137,112,PK Số 5.1 [TĐ],
+372,91,547,123,Số phiếu 29794/2018,
+626,100,688,118,4720169,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+300,207,322,225,35,
+366,207,387,224,25,
+436,207,468,225,960,
+509,207,560,225,06719,
+250,210,262,225,2,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,235,73,250,Mạch:,
+28,255,717,275,"Cận lâm sàng: Đo hoạt độ ALT (GPT) (Máu), Đo hoạt độ AST (GOT) (Máu), Định lượng Cholesterol",
+26,275,710,294,"toàn phần (máu), Định lượng Creatinin (máu), Định lượng Glucose (Máu), Định lượng HDL-C (High",
+28,294,550,314,"density lipoprotein Cholesterol) [Máu], Định lượng Triglycerid (máu) [Máu];",
+28,312,735,335,Chấn đoán: E78 - Rối loạn chuyển hoả lipoprotein và tình trạng tăng lipid máu khác; (El1)TD Bệnh đái,diagnose
+26,332,737,352,tháo đường không phụ thuộc insulin; (K76) Bệnh gan khác; (N17)TD Suy thận cấp; ([120) Viêm phế quản,diagnose
+26,352,55,369,cấp,diagnose
+46,424,351,453,1) INGARON 200 DST 200mg,drugname
+595,426,708,449,SL: 10 Viên,quantity
+34,449,159,475,Ghi chú Uống:,
+513,453,606,471,Chiều 1 Viên,usage
+289,454,376,474,Sáng 1 Viên,usage
+45,478,423,504,2) BROMHEXIN ACTAVIS 8MG 8mg,drugname
+595,479,708,501,SL: 20 Viên,quantity
+34,501,161,527,Ghi chú Uống:,
+513,504,605,523,Chiều 2 Viên,usage
+288,505,376,527,Sáng 2 Viên,usage
+33,535,197,555,Cộng khoản: 2 khoản,
+33,558,185,576,Lời dặn đơn thuốc: 0,
+33,585,168,605,Ngày hẹn tái khám:,
+484,620,621,640,Ngày 18/05/2018,date
+65,638,198,657,Bệnh nhân ký nhận,
+494,647,611,665,"Y, Bác sĩ điều trị",
+484,722,608,743,BS. khong dùng,
+33,775,414,798,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+586,817,730,834,05/05/2021 11:52:08,

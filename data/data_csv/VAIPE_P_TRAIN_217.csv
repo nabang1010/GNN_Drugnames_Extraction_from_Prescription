@@ -1,0 +1,42 @@
+xmin,ymin,xmax,ymax,Object,label
+26,89,130,113,PK SỐ 3 [NHI],
+372,92,545,121,Số phiếu 21303/2021,
+626,101,688,118,4664454,
+260,122,508,152,TOA THUỐC BHYT,
+618,160,655,177,Nam,
+685,160,708,177,Nữ,
+187,207,214,224,CB,
+366,207,387,224,35,
+436,207,468,225,208,
+509,207,560,225,38802,
+249,208,262,224,2,
+300,208,322,225,35,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,254,125,274,Cận lâm sàng:,
+28,272,498,295,Chấn đoán: K05 - Viêm nướu và bệnh nha chu; (J02) Viêm họng cấp,diagnose
+46,386,306,413,1) FABAMOX 500 500mg,drugname
+595,387,708,409,SL: 28 Viên,quantity
+34,411,161,436,Ghi chú Uống:,
+514,414,605,433,Chiều 2 Viên,usage
+289,416,376,436,Sáng 2 Viên,usage
+45,438,334,466,2) PARTAMOL TAB. 500mg,drugname
+595,439,708,461,SL: 20 Viên,quantity
+34,463,161,488,Ghi chú Uống:,
+514,466,606,484,Chiều 2 Viên,usage
+289,468,376,488,Sáng 2 Viên,usage
+45,490,377,518,3) METRONIDAZOL 250 250mg,drugname
+595,491,708,513,SL: 28 Viên,quantity
+34,515,161,540,Ghi chú Uống:,
+513,518,605,536,Chiều 2 Viên,usage
+289,519,376,540,Sáng 2 Viên,usage
+33,548,197,568,Cộng khoản: 3 khoản,
+33,571,163,590,Lời dặn đơn thuốc:,
+33,598,167,616,Ngày hẹn tái khám:,
+484,633,620,652,Ngày 09/04/2021,date
+65,652,198,670,Bệnh nhân ký nhận,
+494,658,611,678,"Y, Bác sĩ điều trị",
+457,729,637,757,BSCKI. Hà Đức Thắng,
+33,788,416,811,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+586,829,730,845,03/05/2021 22:15:25,

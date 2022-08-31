@@ -1,0 +1,41 @@
+xmin,ymin,xmax,ymax,Object,label
+58,28,113,58,1/1,
+26,89,130,113,PK SỐ 3 [NHI],
+372,91,534,123,Số phiếu 7930/2021,
+626,101,688,118,4668800,
+260,120,508,154,TOA THUỐC BHYT,
+618,160,655,177,Nam,
+685,160,708,177,Nữ,
+300,207,322,225,35,
+366,207,387,224,35,
+436,207,466,225,207,
+509,207,560,225,49678,
+250,210,262,224,2,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,254,304,274,Cận lâm sàng: chụp Xquang ngực thẳng,
+28,267,414,296,Chấn đoán: J44 - Các bệnh phổi tắc nghẽn mãn tính khác,diagnose
+46,387,349,412,"1) CEFADROXIL 500MG 0,5g",drugname
+595,387,708,409,SL: 28 Viên,quantity
+34,411,161,436,Ghi chú Uống:,
+625,414,700,433,Tối 2 Viên,usage
+289,416,376,436,Sáng 2 Viên,usage
+45,438,317,466,2) VIPREDNI 16MG 16mg,drugname
+595,439,697,461,SL: 5 Viên,quantity
+34,464,232,490,Ghi chú Uống sau khi ăn:,
+289,468,376,488,Sáng 1 Viên,usage
+44,491,254,518,3) DIXIREIN 375mg,drugname
+595,491,708,513,SL: 20 Viên,quantity
+34,515,161,540,Ghi chú Uống:,
+625,518,700,536,Tối 2 Viên,usage
+289,519,376,540,Sáng 2 Viên,usage
+33,548,197,568,Cộng khoản: 3 khoản,
+33,571,163,590,Lời dặn đơn thuốc:,
+33,598,167,616,Ngày hẹn tái khám:,
+484,633,620,652,Ngày 03/02/2021,date
+65,652,198,670,Bệnh nhân ký nhận,
+494,658,611,678,"Y, Bác sĩ điều trị",
+461,732,631,757,BS. Lương Tiến Dũng,
+33,788,416,811,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+586,829,730,845,05/05/2021 08:16:59,

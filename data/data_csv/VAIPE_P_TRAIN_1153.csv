@@ -1,0 +1,34 @@
+xmin,ymin,xmax,ymax,Object,label
+57,46,115,77,1/1,
+150,75,193,95,ALY,
+372,111,524,138,Số phiếu 641/2019,
+627,122,690,137,4667257,
+259,139,508,173,TOA THUỐC BHYT,
+621,179,710,195,Nam x nữ,
+434,224,468,244,206,
+510,224,561,244,98845,
+188,226,323,244,BT 2 L35,
+368,228,388,241,35,
+170,252,306,270,lần/phút Huyết áp:,
+28,255,75,270,Mạch:,
+452,255,596,272,MMHg Thân nhiệt:,
+28,273,126,293,Cận lâm sàng:,
+26,290,710,312,Chần đoán: J02 - Viêm họng cấp; (G46?) Hội chứng mạch máu não trong bệnh mạch não (160-167t),diagnose
+46,401,281,430,"1) NOVOXIM-500 0,5g",drugname
+594,403,707,426,SL: 20 Viên,quantity
+37,430,162,455,Ghi chú Uống:,
+44,454,333,483,2) PARTAMOL TAB. 500mg,drugname
+594,457,707,479,SL: 10 Viên,quantity
+35,481,153,506,Ghi chú Uống,
+44,503,501,535,3) HOẠT HUYẾT DƯỠNG NÃO 150mg+20mg,drugname
+594,508,707,530,SL: 20 Viên,quantity
+37,536,153,557,Ghi chú Uống,
+33,565,197,585,Cộng khoản: 3 khoản,
+33,590,164,607,Lời dặn đơn thuốc:,
+33,616,168,636,Ngày hẹn tái khám:,
+483,650,621,670,Ngày 11/03/2019,date
+63,667,199,691,Bệnh nhân ký nhận,
+494,676,612,696,"Y, Bác sĩ điều trị",
+443,749,650,776,NHS. Nguyễn Thị Nguyên,
+33,805,415,829,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+585,847,732,865,20/12/2021 00:04:25,

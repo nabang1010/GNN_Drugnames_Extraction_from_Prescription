@@ -1,0 +1,37 @@
+xmin,ymin,xmax,ymax,Object,label
+57,46,115,77,1/1,
+155,77,201,95,LGHĨA,
+372,111,535,138,Số phiếu 2916/2020,
+625,117,690,137,4673002,
+259,139,508,173,TOA THUỐC BHYT,
+621,179,710,195,Nam x nữ,
+437,226,468,244,206,
+512,226,561,244,80160,
+250,228,323,244,2,
+368,228,388,244,35,
+170,252,306,270,lần/phút Huyết áp:,
+28,255,75,270,Mạch:,
+452,255,596,272,MMHg Thân nhiệt:,
+28,273,126,293,Cận lâm sàng:,
+26,290,647,312,"Chấn đoán: [20 - Viêm phế quản cấp; (J11) Cúm, virus không được định danh; (L29) Ngứa",diagnose
+46,401,364,430,"1) HAPENXIN CAPSULES 0,5g",drugname
+594,403,707,426,SL: 20 Viên,quantity
+35,432,159,452,Ghi chú uống:,
+44,454,370,483,2) BROMHEXIN ACTAVIS 8mg,drugname
+594,457,707,479,SL: 20 Viên,quantity
+35,481,160,506,Ghi chú Uống:,
+44,508,343,534,3) TYDOL PM 500mg + 25mg,drugname
+594,508,707,530,SL: 10 Viên,quantity
+37,537,153,557,Ghi chú Uống,
+46,561,470,587,4) LIVONIC 2500mg+400mg+500mg+85mg,drugname
+594,561,707,583,SL: 20 Viên,quantity
+37,588,153,610,Ghi chú Uống,
+35,619,197,639,Cộng khoản: 4 khoản,
+33,643,164,661,Lời dặn đơn thuốc:,
+33,667,168,687,Ngày hẹn tái khám:,
+483,703,623,723,Ngày 16/12/2020,date
+64,721,199,741,Bệnh nhân ký nhận,
+497,732,612,749,"Y, Bác sĩ điều trị",
+461,800,634,827,YSSN. Trần Thị Hằng,
+33,858,417,880,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+585,898,732,918,06/01/2022 11:42:48,

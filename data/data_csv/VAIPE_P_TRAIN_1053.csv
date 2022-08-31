@@ -1,0 +1,18 @@
+xmin,ymin,xmax,ymax,Object,label
+42,105,197,140,Điện thoại:,
+397,150,750,192,ĐƠN THUỐC BHYT,
+1012,212,1057,240,Nữ,
+702,215,962,250,Cân nặng kg nam,
+37,347,1060,392,Chẩn đoán: S93 - căng cơ khớp và dây chẳng tại tầm cẳng chân và bàn chân,diagnose
+37,395,97,427,phải,diagnose
+39,428,242,470,Thuốc điều trị:,
+37,477,585,520,1) Paracetamol (Partamol Tab.) 500mg,drugname
+282,544,750,588,Uống: Sáng 2 Viên CHiều 2 Viên,usage
+42,550,197,580,SL: 20 Viên,quantity
+41,611,160,649,Lời dặn:,
+647,654,1027,696,Ngày 27 tháng 12 năm 2021,date
+680,705,1002,742,Bác sỹ/Y sỹ khám bệnh,
+712,750,970,787,"(Ký, ghi rõ họ tên)",
+662,890,1017,932,BSCKI. Nguyễn Ngọc Tri,
+62,940,507,975,Khám lại xin mang theo đơn này,
+62,985,1007,1027,"Tên bố hoặc mẹ của trẻ hoặc người đưa trẻ đến khám bệnh, chữa bệnh",

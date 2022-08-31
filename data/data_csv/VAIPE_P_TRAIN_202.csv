@@ -1,0 +1,37 @@
+xmin,ymin,xmax,ymax,Object,label
+58,28,113,58,1/1,
+26,89,147,113,PK SỐ 6 [YHCT],
+372,91,547,123,Số phiếu 34060/2018,
+626,100,688,118,4669683,
+260,120,508,154,TOA THUỐC BHYT,
+618,160,655,177,Nam,
+685,160,708,177,Nữ,
+300,207,322,225,35,
+366,207,387,224,35,
+436,207,466,225,207,
+509,207,560,225,35077,
+250,210,262,224,2,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,254,560,274,"Cận lâm sàng: Chụp Xquang xương bàn, ngón chân thẳng, nghiêng hoặc chếch",
+28,274,523,294,Chấn đoán: M25.5 - Đau khớp / thoái hóa khớp xương bàn chân chân trái,diagnose
+46,386,334,413,1) PARTAMOL TAB. 500mg,drugname
+595,387,708,409,SL: 28 Viên,quantity
+34,411,161,436,Ghi chú Uống:,
+514,414,605,433,Chiều 2 Viên,usage
+289,416,376,436,Sáng 2 Viên,usage
+44,436,314,465,2) VINA-AD 2000ui+ 400ui,drugname
+595,439,708,461,SL: 10 Viên,quantity
+34,463,161,488,Ghi chú Uống:,
+513,466,605,484,Chiều 1 Viên,usage
+289,468,376,488,Sáng 1 Viên,usage
+33,496,197,514,Cộng khoản: 2 khoản,
+33,519,185,538,Lời dặn đơn thuốc: 0,
+33,546,167,565,Ngày hẹn tái khám:,
+484,581,621,600,Ngày 07/06/2018,date
+65,600,198,618,Bệnh nhân ký nhận,
+494,605,612,627,"Y, Bác sĩ điều trị",
+466,680,628,705,BS. Nguyễn Thị Ngà,
+33,737,414,758,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+588,777,732,794,16/05/2021 16:41:56,

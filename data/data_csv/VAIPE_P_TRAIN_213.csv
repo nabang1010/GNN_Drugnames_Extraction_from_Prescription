@@ -1,0 +1,33 @@
+xmin,ymin,xmax,ymax,Object,label
+26,60,148,78,Khoa Khám bệnh,
+26,89,124,112,PK SỐ [TN],
+372,91,547,123,Số phiếu 51429/2019,
+626,101,688,118,4700520,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+366,207,387,225,35,
+436,207,468,225,208,
+511,207,560,225,12939,
+300,208,322,225,35,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,254,733,274,"Thuật Cận lâm sảng: Định lượng Cholesterol toàn phần (máu), Định lượng Glucose (Máu), Định lượng HDL-Châu Trong",
+26,274,593,294,"(High density lipoprotein Cholesterol) [Máu], Định lượng Triglycerid (máu) (Máu);",
+28,292,722,312,Chấn đoán: E78 - Rối loạn chuyền hoá lipoprotein và tình trạng tăng lipid máu khác; (E11)td Bệnh đái,diagnose
+26,312,434,332,tháo đường không phụ thuộc insulin;; (K76) Bệnh gan khác,diagnose
+46,402,483,429,1) THANH NHIỆT TIÊU ĐỘC LIVERGOOD,drugname
+595,406,708,428,SL: 40 Viên,quantity
+34,429,160,453,Ghi chú Uống:,
+513,431,606,451,Chiều 2 Viên,usage
+289,434,376,453,Sáng 2 Viên,usage
+33,463,197,481,Cộng khoản: 1 khoản,
+33,484,163,504,Lời dặn đơn thuốc:,
+33,511,167,532,Ngày hẹn tái khám:,
+484,548,621,566,Ngày 16/08/2019,date
+65,566,198,585,Bệnh nhân ký nhận,
+494,575,611,593,"Y, Bác sĩ điều trị",
+446,647,648,672,YS. Nguyễn Thị Hoài Thu,
+33,701,416,725,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+586,743,730,760,03/05/2021 11:21:28,

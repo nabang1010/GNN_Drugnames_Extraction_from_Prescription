@@ -1,0 +1,38 @@
+xmin,ymin,xmax,ymax,Object,label
+58,28,113,58,1/1,
+372,92,535,121,Số phiếu 2164/2018,
+626,101,688,118,4655428,
+260,120,508,154,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+185,207,215,225,HC,
+300,207,322,225,35,
+366,207,387,224,35,
+436,207,468,224,100,
+509,207,560,225,06509,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,254,125,274,Cận lâm sàng:,
+28,272,379,294,Chẩn đoán: J02 - Viêm họng cấp/ Viêm mũi dị ứng,diagnose
+46,387,356,412,"1) AMOXICILLIN 500MG 0,5g",drugname
+595,387,708,409,SL: 20 Viên,quantity
+34,411,161,436,Ghi chú Uống:,
+45,438,332,466,2) CLORPHENIRAMIN 4mg,drugname
+595,439,708,461,SL: 10 Viên,quantity
+34,463,152,488,Ghi chú Uống,
+45,489,398,518,3) PARACETAMOL 500MG 500mg,drugname
+595,491,708,513,SL: 10 Viên,quantity
+34,515,161,540,Ghi chú Uống:,
+46,542,346,570,4) VITAMIN C STADA 1G 1g,drugname
+595,543,697,565,SL: 5 Viên,quantity
+34,566,161,592,Ghi chú Uống:,
+33,600,197,620,Cộng khoản: 4 khoản,
+33,623,163,642,Lời dặn đơn thuốc:,
+33,650,167,670,Ngày hẹn tái khám:,
+484,687,621,705,Ngày 06/08/2018,date
+65,703,198,722,Bệnh nhân ký nhận,
+494,712,611,732,"Y, Bác sĩ điều trị",
+444,785,650,810,NV. Đặng Thị Thu Huyền,
+33,840,414,863,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+588,882,730,899,10/05/2021 08:58:25,

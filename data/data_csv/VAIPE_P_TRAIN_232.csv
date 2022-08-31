@@ -1,0 +1,32 @@
+xmin,ymin,xmax,ymax,Object,label
+58,28,113,58,1/1,
+26,89,127,113,PK Số 2 [Nội],
+372,91,547,123,Số phiếu 34836/2019,
+626,100,687,118,4694561,
+260,122,508,152,TOA THUỐC BHYT,
+618,160,655,177,Nam,
+685,160,708,177,Nữ,
+300,207,322,225,35,
+366,207,387,224,35,
+436,207,466,225,207,
+509,207,560,225,43704,
+250,210,262,224,3,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,234,73,250,Mạch:,
+28,255,717,275,"Cận lâm sàng: Định lượng Acid Uric (Máu), Định lượng Creatinin (máu), Định lượng Urê máu (Máu)",
+28,274,342,294,Tổng phân tích nước tiểu (bằng máy tự động);,
+28,290,541,312,"Chần đoán: R60 - Phù, không xếp hạng nơi khác; (M10) Gút (thống phong)",diagnose
+46,404,272,433,1) BECOSEMID 40mg,drugname
+595,406,697,428,SL: 3 Viên,quantity
+34,429,160,453,Ghi chú Uống:,
+289,434,376,453,Sáng 1 Viên,usage
+33,463,197,481,Cộng khoản: 1 khoản,
+33,484,163,504,Lời dặn đơn thuốc:,
+33,511,167,532,Ngày hẹn tái khám:,
+484,548,621,566,Ngày 04/06/2019,date
+65,566,198,585,Bệnh nhân ký nhận,
+494,575,611,593,"Y, Bác sĩ điều trị",
+474,645,618,669,BS. Trần Mạnh Hà,
+33,701,414,725,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+588,743,730,760,10/05/2021 14:20:56,

@@ -1,0 +1,38 @@
+xmin,ymin,xmax,ymax,Object,label
+37,102,217,130,Khoa Khám bệnh,
+36,146,213,184,Bốc khám Ngoại,
+554,151,813,193,Số phiếu 36926/2021,
+935,162,1027,190,4931166,
+387,195,757,242,TOA THUỐC BHYT,
+925,252,977,277,Nam,
+1022,252,1057,277,Nữ,
+650,322,695,350,205,
+762,322,835,350,22059,
+370,325,390,350,2,
+447,325,480,350,35,
+545,325,577,350,35,
+247,360,455,390,lần/phút Huyết áp:,
+674,360,950,393,mmHg Thân nhiệt: 36.2,
+37,364,159,389,Mạch: 85,
+500,367,615,387,120,
+37,392,987,425,"Cận lâm sảng: Định lượng Glucose [Máu]; Chụp Xquang khớp gối thắng, nghiêng hoặc chếch",
+37,422,1025,454,Chần đoán: M13 - Các viêm khớp khác;; (E11)TD Bệnh đái tháo đường không phụ thuộc insuline,diagnose
+887,592,1055,625,SL: 20 Viên,quantity
+64,592,370,632,1) MEZAFEN 60mg,drugname
+49,630,235,662,Ghi chú uống,
+932,632,1045,660,Tối 1 Viên,usage
+430,635,560,665,Sáng 1 Viên,usage
+64,669,455,710,2) FABAMOX 500 500mg,drugname
+887,672,1057,705,SL: 20 Viên,quantity
+49,705,235,743,Ghi chú Uống:,
+932,710,1045,737,Tối 2 Viên,usage
+429,710,560,744,Sáng 2 Viên,usage
+45,755,290,785,Cộng khoản: 2 khoản,
+45,790,242,817,Lời dặn đơn thuốc:,
+45,832,247,860,Ngày hẹn tái khám:,
+722,885,925,912,Ngày 27/07/2021,date
+92,912,292,937,Bệnh nhân ký nhận,
+737,920,912,952,"Y, Bác sĩ điều trị",
+682,1035,947,1062,BSCKI. Lưu Minh Tân,
+44,1114,617,1149,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+877,1177,1089,1202,31/12/2021 18:26:57,

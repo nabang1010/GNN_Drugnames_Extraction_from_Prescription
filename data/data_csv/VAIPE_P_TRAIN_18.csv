@@ -1,0 +1,36 @@
+xmin,ymin,xmax,ymax,Object,label
+26,60,148,78,Khoa Khám bệnh,
+26,89,137,112,PK Số 5.2 [TĐ],
+372,91,545,123,Số phiếu 19640/2021,
+626,100,688,118,4763345,
+260,122,508,152,TOA THUỐC BHYT,
+620,160,655,177,Nam,
+685,160,708,177,Nữ,
+300,207,322,225,35,
+366,207,387,225,35,
+436,207,468,225,206,
+511,207,561,225,71056,
+249,208,262,224,2,
+450,231,595,255,MMHg Thân nhiệt:,
+168,232,305,252,lần/phút Huyết áp:,
+28,235,73,250,Mạch:,
+28,255,717,274,"Cận lâm sàng: Đo hoạt độ ALT (GPT) (Máu), Đo hoạt độ AST (GOT) (Máu), Định lượng Cholesterol",
+26,274,732,294,"toàn phần (máu), Định lượng Glucose (Máu), Định lượng HDL-C (High density lipoprotein Cholesterol)",
+28,292,698,315,"(Máu), Định lượng Triglycerid (máu) (Máu), Định lượng Urê máu (Máu), Tổng phân tích nước tiểu",
+28,312,285,332,(Bằng máy tự động); Điện tim thường,
+28,331,737,352,Chấn đoán: Ell - Bệnh đái tháo đường không phụ thuộc insuline ; (E78) Rối loạn chuyền hóa lipoprotein,diagnose
+28,351,489,371,và tình trạng tăng lipid máu khác; (H25) Đục thủy tinh thể người già,diagnose
+46,443,349,471,1) MEGLUCON 1000 1000mg,drugname
+595,444,707,466,SL: 70 Viên,quantity
+34,469,232,495,Ghi chú Uống sau khi ăn:,
+625,471,700,489,Tối 1 Viên,usage
+289,473,376,493,Sáng 1 Viên,usage
+33,501,197,519,Cộng khoản: 1 khoản,
+33,524,163,543,Lời dặn đơn thuốc:,
+33,548,314,573,"Ngày hẹn tái khám: Thứ hai, 10/05/2021",
+484,586,620,606,Ngày 05/04/2021,date
+65,605,198,623,Bệnh nhân kỳ nhận,
+494,613,611,631,"Y, Bác sĩ điều trị",
+442,682,650,713,BSCKI. Nguyễn Tiến Bình,
+33,742,416,763,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+586,782,728,799,03/06/2021 07:52:31,

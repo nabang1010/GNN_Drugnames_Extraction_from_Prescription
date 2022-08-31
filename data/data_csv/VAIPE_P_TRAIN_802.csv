@@ -1,0 +1,37 @@
+xmin,ymin,xmax,ymax,Object,label
+57,46,115,77,1/1,
+26,107,144,132,PK Số 1 [Ngoại],
+372,111,546,138,Số phiếu 36085/2019,
+625,117,690,137,4937957,
+259,139,508,173,TOA THUỐC BHYT,
+621,179,654,195,Nam,
+687,179,710,195,Nữ,
+434,224,468,244,206,
+510,224,561,244,56848,
+186,228,215,244,DN,
+301,228,323,244,35,
+368,228,388,244,35,
+170,252,306,270,lần/phút Huyết áp:,
+28,255,73,270,Mạch:,
+452,255,596,272,MMHg Thân nhiệt:,
+26,270,545,294,"Cận lâm sàng: Chụp Xquang xương bàn ngón tay thẳng, nghiêng hoặc chếch",
+28,291,372,314,Chẩn đoán: S62 - Gẫy xương tầm cổ tay và bàn tay,diagnose
+46,401,290,430,1) MYPARA 500 500mg,drugname
+594,403,707,426,SL: 20 Viên,quantity
+287,431,377,456,Sáng 2 Viên,usage
+512,432,607,450,Chiều 2 Viên,usage
+37,432,162,453,Ghi chú Uống:,
+44,454,290,483,"2) STATRIPSINE 4,2mg",drugname
+594,457,707,479,SL: 20 Viên,quantity
+512,483,607,503,Chiều 2 Viên,usage
+288,485,377,505,Sáng 2 Viên,usage
+37,486,159,506,Ghi chú uống:,
+35,513,197,535,Cộng khoản: 2 khoản,
+33,536,164,556,Lời dặn đơn thuốc:,
+33,563,168,583,Ngày hẹn tái khám:,
+485,601,621,619,Ngày 10/06/2019,date
+64,616,199,636,Bệnh nhân ký nhận,
+497,627,612,645,"Y, Bác sĩ điều trị",
+467,695,626,723,BS. Đào Tiến Trung,
+33,754,414,776,"Tái khám xin mang theo đơn, xét nghiệm, phim (nếu có)",
+585,794,732,814,26/12/2021 23:17:13,
