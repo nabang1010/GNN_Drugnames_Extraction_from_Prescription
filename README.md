@@ -37,14 +37,18 @@ GNN_Drugnames_Extraction_from_ Prescription
 │   │   ├── VAIPE_P_TEST_1000.png
 ```
 
-## Generate Graph
+## Traning
 
-### Convert JSON to CSV train
+### Generate Data Train Graph
+`json_to_csv.ipynb`
+
+`<file json> --> <file csv>`
 
 
 
 
-### Train & Val
+
+### Data prepare
 
 `gen_graph_data_train.ipynb`
 * input:
@@ -54,7 +58,15 @@ GNN_Drugnames_Extraction_from_ Prescription
 *  * train set: `processed/train_data.dataset`
 *  * val set: `processed/val_data.dataset`
 
-### Test
+
+
+##  Test
+#### Generate Data Test Graph
+`pres_to_csv.ipynb`
+
+`<prescription> --> <scene text detection> --> <scene text recognition> --> <file csv>`
+
+#### Data prepare
 
 `gen_graph_data_test.ipynb`
 * input:
@@ -63,7 +75,7 @@ GNN_Drugnames_Extraction_from_ Prescription
 * output:
 *  * test set: `processed/test_data.dataset`
 
-## Traning
+
 
 
 
