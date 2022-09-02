@@ -1,7 +1,7 @@
-# GNN_Drugnames_Extraction_from_-Prescription
-GNN_Drugnames_Extraction_from_ Prescription
+# GNN Drugnames Extraction from Prescription
 
-@nabang1010
+
+***@nabang1010***
 
 ## Folder Structure
 
