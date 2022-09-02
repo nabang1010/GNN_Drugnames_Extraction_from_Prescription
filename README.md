@@ -64,7 +64,7 @@
 #### Generate Data Test Graph
 `pres_to_csv.ipynb`
 
-`<**prescription**> --> <**scene text detection**> --> <**scene text recognition**> --> <**file csv**>`
+`<prescription> --> <scene text detection> --> <scene text recognition> --> <file csv>`
 
 #### Data prepare
 
