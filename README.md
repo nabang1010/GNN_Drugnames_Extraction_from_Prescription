@@ -3,7 +3,7 @@ GNN_Drugnames_Extraction_from_ Prescription
 
 @nabang1010
 
-
+## Folder Structure
 
 ```
 ├── data_GNN
@@ -36,5 +36,34 @@ GNN_Drugnames_Extraction_from_ Prescription
 │   │   ├── VAIPE_P_TEST_100.png
 │   │   ├── VAIPE_P_TEST_1000.png
 ```
+
+## Generate Graph
+
+### Convert JSON to CSV train
+
+
+
+
+### Train & Val
+
+`gen_graph_data_train.ipynb`
+* input:
+*  * image: `data_GNN/data_image_train`
+*  * csv  : `data_GNN/data_csv`
+* output:
+*  * train set: `processed/train_data.dataset`
+*  * val set: `processed/val_data.dataset`
+
+### Test
+
+`gen_graph_data_test.ipynb`
+* input:
+*  * image: `data_GNN/data_image_test_new`
+*  * csv  : `data_GNN/data_test_new_csv`
+* output:
+*  * test set: `processed/test_data.dataset`
+
+## Traning
+
 
 
