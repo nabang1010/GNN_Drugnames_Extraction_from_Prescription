@@ -30,13 +30,11 @@ GNN_Drugnames_Extraction_from_ Prescription
 │   │   ├── val_data.dataset
 │   │   ├── test_data.dataset
 │   ├── output_folder <results predict>
-│   │   ├── train_data.dataset
-│   │   ├── val_data.dataset
-│   │   ├── test_data.dataset
-
-
-
-
+│   │   ├── VAIPE_P_TEST_0.png
+│   │   ├── VAIPE_P_TEST_1.png
+│   │   ├── VAIPE_P_TEST_10.png
+│   │   ├── VAIPE_P_TEST_100.png
+│   │   ├── VAIPE_P_TEST_1000.png
 ```
 
 
