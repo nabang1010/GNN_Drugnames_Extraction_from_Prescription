@@ -47,6 +47,8 @@
 │   │   ├── VAIPE_P_TEST_10.png
 │   │   ├── VAIPE_P_TEST_100.png
 │   │   ├── VAIPE_P_TEST_1000.png
+├── weight
+│   ├── weight_2000.pt
 ```
 
 ## Traning
@@ -67,9 +69,15 @@
 *  * train set: `dataset/train_data.dataset`
 *  * val set: `dataset/val_data.dataset`
 
+### Train
+
+`training_GNN.ipynb`
 
 
 ##  Test
+
+`<scene text box> + <context> ==> <drugname box>`
+
 #### Generate Data Test Graph
 `pres_to_csv.ipynb`
 
