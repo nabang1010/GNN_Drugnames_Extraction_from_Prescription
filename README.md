@@ -75,6 +75,7 @@
 
 
 ##  Test
+`test_GNN.ipynb`
 
 `<scene text box> + <context> ==> <drugname box>`
 
